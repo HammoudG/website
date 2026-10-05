@@ -1,0 +1,75 @@
+---
+title: "News Cycles and Satisfaction with Democracy: How the Pandemic Short-Circuited Media Polarization"
+description: "Less partisan news during the UK pandemic coincided with higher satisfaction with democracy and narrower partisan gaps. Evidence from 201,144 survey respondents and 1.5 million newspaper tweets."
+author:
+  - name:
+      given: "Omar"
+      family: "Hammoud-Gallego"
+  - name:
+      given: "Roberto Stefan"
+      family: "Foa"
+  - name:
+      given: "Xavier"
+      family: "Romero-Vidal"
+date: "2025"
+date-format: YYYY
+citation:
+  type: article-journal
+  issued: 2025
+  container-title: "British Journal of Political Science"
+  volume: "55"
+  page: "e49"
+  doi: "10.1017/S0007123424000395"
+  pdf-url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E4CB5516534D8E855D0E48230A4F0DA8/S0007123424000395a.pdf"
+google-scholar: true
+keywords: ["satisfaction with democracy", "media polarisation", "COVID-19", "topic models", "sentiment analysis", "United Kingdom"]
+include-in-header:
+  text: |
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "News Cycles and Satisfaction with Democracy: How the Pandemic Short-Circuited Media Polarization",
+      "name": "News Cycles and Satisfaction with Democracy: How the Pandemic Short-Circuited Media Polarization",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Omar Hammoud-Gallego",
+          "@id": "https://www.omarhgallego.com/#person"
+        },
+        {
+          "@type": "Person",
+          "name": "Roberto Stefan Foa"
+        },
+        {
+          "@type": "Person",
+          "name": "Xavier Romero-Vidal"
+        }
+      ],
+      "datePublished": "2025",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "British Journal of Political Science"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1017/S0007123424000395"
+      },
+      "sameAs": "https://doi.org/10.1017/S0007123424000395",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": "satisfaction with democracy, media polarisation, COVID-19, topic models, sentiment analysis, United Kingdom",
+      "abstract": "During the coronavirus pandemic in the United Kingdom, media outlets shifted their focus from divisive political issues to more neutral topics like lifestyle, sports, and entertainment. This study explores how this change in media content relates to partisan divides in satisfaction with democracy. Using data from a representative survey of 201,144 individuals, we linked respondents' perceptions of democratic performance to their daily media exposure. We did so by analysing 1.5 million tweets from British newspapers using a topic modelling algorithm to identify shifts in topic salience and sentiment using sentiment analysis. Our findings reveal a decline in partisan media exposure during the pandemic, associated with increased satisfaction with democracy at both individual and collective levels, and a narrowing of cross-party divides. These results contribute to discussions on affective polarization, the winner-loser gap in democratic evaluation, and media framing effects, highlighting the potential influence of depoliticized news coverage on democratic attitudes.",
+      "url": "https://www.omarhgallego.com/research/papers/news-cycles-democracy.html"
+    }
+    </script>
+---
+::: {.paper-meta}
+*British Journal of Political Science*, 55, e49 (2025) · [Open access, CC BY 4.0]{.badge-oa}
+
+[Publisher version (DOI)](https://doi.org/10.1017/S0007123424000395) · [Free PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E4CB5516534D8E855D0E48230A4F0DA8/S0007123424000395a.pdf)
+:::
+
+## Abstract
+
+During the coronavirus pandemic in the United Kingdom, media outlets shifted their focus from divisive political issues to more neutral topics like lifestyle, sports, and entertainment. This study explores how this change in media content relates to partisan divides in satisfaction with democracy. Using data from a representative survey of 201,144 individuals, we linked respondents' perceptions of democratic performance to their daily media exposure. We did so by analysing 1.5 million tweets from British newspapers using a topic modelling algorithm to identify shifts in topic salience and sentiment using sentiment analysis. Our findings reveal a decline in partisan media exposure during the pandemic, associated with increased satisfaction with democracy at both individual and collective levels, and a narrowing of cross-party divides. These results contribute to discussions on affective polarization, the winner-loser gap in democratic evaluation, and media framing effects, highlighting the potential influence of depoliticized news coverage on democratic attitudes.

@@ -1,0 +1,58 @@
+---
+title: "Omar Hammoud-Gallego"
+pagetitle: "Omar Hammoud-Gallego | Migration and asylum policy, democratic representation"
+description: "Assistant Professor in Public Policy at Durham University. Research on Latin American migration and asylum policy, Venezuelan displacement, UK immigration policy and democratic representation."
+page-layout: full
+title-block-banner: false
+# Add your portrait as files/headshot.jpg, then uncomment the two image lines below
+# and add `image: files/headshot.jpg` above for social-media previews.
+about:
+  template: trestles
+  # image: files/headshot.jpg
+  # image-alt: "Portrait of Omar Hammoud-Gallego"
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:omar.hammoud-gallego@durham.ac.uk
+    - text: Durham profile
+      href: https://www.durham.ac.uk/staff/omar-hammoud-gallego/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=2UQGkJgAAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/HammoudG
+    - text: Bluesky
+      href: https://bsky.app/profile/omarhgallego.bsky.social
+---
+
+::: {.lede}
+I am a political and social data scientist and Assistant Professor in Public Policy at the [School of Government and International Affairs](https://www.durham.ac.uk/departments/academic/school-government-international-affairs/), Durham University. I study how governments design migration and asylum policy, what those policies do to the people they target, and how well democratic institutions represent the people they serve.
+:::
+
+My work on migration focuses on Latin America, especially Venezuelan displacement, and increasingly on Europe and the UK. I have documented that Latin America liberalised its asylum laws between 1990 and 2020 while OECD countries restricted theirs ([*IMR*, 2022](research/papers/liberal-region-asylum.qmd)). I have also shown that leftist governments adopted these laws largely as symbolic commitments ([*APSR*, 2023](research/papers/symbolic-refugee-protection.qmd)). My work on Venezuelan displacement shows that visa restrictions pushed many migrants onto irregular routes rather than stopping them ([*World Development*, 2024](research/papers/visa-restrictions-venezuela.qmd)). My work on democracy covers satisfaction with democracy, the representativeness of local councillors and political ambition among women.
+
+I use quasi-experimental designs (difference-in-differences, regression discontinuity), survey and field experiments, original policy databases and computational text analysis.
+
+I am a Visiting Fellow at the LSE Department of Government and an Affiliated Fellow of the IDRC Chair on Migration and Displacement at Universidad del Pacífico, Peru. Before Durham I was a Fellow in Political Science and Public Policy at the LSE School of Public Policy, and I completed my PhD in the LSE Department of Government. I have worked with UNHCR in Colombia, IFAD, UNODC, the Migrant Democracy Project and the3million.
+
+**Media and policy enquiries:** omar.hammoud-gallego@durham.ac.uk. I give interviews in English, Spanish and Italian.
+
+## Selected research
+
+::: {.pub}
+[Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws](research/papers/symbolic-refugee-protection.qmd){.pub-title}<br>
+[With L. F. Freier. *American Political Science Review* (2023).]{.pub-meta}<br>
+[APSA Migration and Citizenship Section Best Paper Award, Honourable Mention, 2024]{.award}
+:::
+
+::: {.pub}
+[The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being](research/papers/visa-restrictions-venezuela.qmd){.pub-title}<br>
+[*World Development* (2024).]{.pub-meta}
+:::
+
+::: {.pub}
+[News Cycles and Satisfaction with Democracy: How the Pandemic Short-Circuited Media Polarisation](research/papers/news-cycles-democracy.qmd){.pub-title}<br>
+[With R. S. Foa and X. Romero-Vidal. *British Journal of Political Science* (2025).]{.pub-meta}
+:::
+
+[All research →](research/index.qmd)

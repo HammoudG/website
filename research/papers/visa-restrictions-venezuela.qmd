@@ -1,0 +1,60 @@
+---
+title: "The Short-Term Effects of Visa Restrictions on Migrants’ Legal Status and Well-Being: A Difference-in-Differences Approach on Venezuelan Displacement"
+description: "Difference-in-differences evidence that visa restrictions on Venezuelans in South America pushed migrants onto irregular routes, with effects on their legal status and well-being."
+author:
+  - name:
+      given: "Omar"
+      family: "Hammoud-Gallego"
+date: "2024"
+date-format: YYYY
+citation:
+  type: article-journal
+  issued: 2024
+  container-title: "World Development"
+  volume: "182"
+  page: "106709"
+  doi: "10.1016/j.worlddev.2024.106709"
+google-scholar: true
+keywords: ["visa restrictions", "Venezuelan migration", "Peru", "irregular migration", "difference-in-differences", "well-being"]
+include-in-header:
+  text: |
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being: A Difference-in-Differences Approach on Venezuelan Displacement",
+      "name": "The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being: A Difference-in-Differences Approach on Venezuelan Displacement",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Omar Hammoud-Gallego",
+          "@id": "https://www.omarhgallego.com/#person"
+        }
+      ],
+      "datePublished": "2024",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "World Development"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1016/j.worlddev.2024.106709"
+      },
+      "sameAs": "https://doi.org/10.1016/j.worlddev.2024.106709",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": "visa restrictions, Venezuelan migration, Peru, irregular migration, difference-in-differences, well-being",
+      "abstract": "When South American governments imposed visas on Venezuelans to slow arrivals, many migrants did not stop coming. They switched to irregular entry routes. Using a difference-in-differences design, the article estimates the short-term effects of these visa restrictions on migrants' legal status and well-being.",
+      "url": "https://www.omarhgallego.com/research/papers/visa-restrictions-venezuela.html"
+    }
+    </script>
+---
+::: {.paper-meta}
+*World Development*, 182, 106709 (2024) · [Open access, CC BY 4.0]{.badge-oa}
+
+[Publisher version (DOI)](https://doi.org/10.1016/j.worlddev.2024.106709)
+:::
+
+## Summary
+
+When South American governments imposed visas on Venezuelans to slow arrivals, many migrants did not stop coming. They switched to irregular entry routes. Using a difference-in-differences design, the article estimates the short-term effects of these visa restrictions on migrants' legal status and well-being.

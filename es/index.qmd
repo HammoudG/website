@@ -1,0 +1,23 @@
+---
+title: "Omar Hammoud-Gallego"
+pagetitle: "Omar Hammoud-Gallego | Política migratoria y de refugio en América Latina"
+description: "Profesor de Políticas Públicas en la Universidad de Durham. Investiga la política migratoria y de refugio en América Latina, la migración venezolana y la representación democrática."
+lang: es
+---
+
+Soy científico de datos políticos y sociales, y profesor (*Assistant Professor*) de Políticas Públicas en la Escuela de Gobierno y Asuntos Internacionales de la Universidad de Durham (Reino Unido). Investigo cómo los gobiernos diseñan sus políticas migratorias y de refugio, qué efectos tienen sobre las personas migrantes y en qué medida las instituciones democráticas representan a la ciudadanía.
+
+Gran parte de mi trabajo se centra en América Latina y en el desplazamiento venezolano. He creado la base de datos APLA (*Asylum Policies in Latin America*), que codifica las leyes de refugio de 19 países latinoamericanos entre 1990 y 2020, y he mostrado que la región liberalizó sus leyes de refugio mientras los países de la OCDE las restringían. También he estudiado cómo la introducción de visas para personas venezolanas en Sudamérica desvió a muchas de ellas hacia rutas de entrada irregulares.
+
+Soy investigador afiliado de la Cátedra IDRC sobre Migración y Desplazamiento de la [Universidad del Pacífico](https://migraciones.up.edu.pe/investigador/omar-hammoud-gallego/) (Perú) e investigador visitante en el Departamento de Gobierno de la London School of Economics. He trabajado con ACNUR en Colombia y con otras agencias de Naciones Unidas.
+
+**Consultas de prensa:** omar.hammoud-gallego@durham.ac.uk. Doy entrevistas en español, inglés e italiano.
+
+## Publicaciones destacadas
+
+- Hammoud-Gallego, O. y Freier, L. F. (2023). [Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws](../research/papers/symbolic-refugee-protection.qmd). *American Political Science Review*, 117(2), 454–473.
+- Hammoud-Gallego, O. (2024). [The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being](../research/papers/visa-restrictions-venezuela.qmd). *World Development*, 182, 106709.
+- Hammoud-Gallego, O. (2022). [A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020](../research/papers/liberal-region-asylum.qmd). *International Migration Review*, 56(1), 63–96.
+- Hammoud-Gallego, O., Fernández-Rodríguez, N. y Freier, L. F. (2020). Importancia y limitaciones de las normas jurídicas para el estudio de la política migratoria en América Latina. En L. Gandini (Ed.), *Perspectivas jurídicas de las migraciones internacionales*. SUDIMER, UNAM.
+
+Todas las publicaciones están en la [página de investigación](../research/index.qmd) (en inglés).

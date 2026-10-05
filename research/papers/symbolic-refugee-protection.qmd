@@ -1,0 +1,71 @@
+---
+title: "Symbolic Refugee Protection: Explaining Latin America’s Liberal Refugee Laws"
+description: "Why did Latin America expand refugee protection after 2000? Leftist executives adopted refugee laws largely as symbolic human-rights commitments. Evidence from the APLA database, Argentina and Mexico."
+author:
+  - name:
+      given: "Omar"
+      family: "Hammoud-Gallego"
+  - name:
+      given: "Luisa Feline"
+      family: "Freier"
+date: "2023"
+date-format: YYYY
+citation:
+  type: article-journal
+  issued: 2023
+  container-title: "American Political Science Review"
+  volume: "117"
+  issue: "2"
+  page: "454-473"
+  doi: "10.1017/S000305542200082X"
+  pdf-url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf"
+google-scholar: true
+keywords: ["refugee policy", "asylum", "Latin America", "policy liberalisation", "Argentina", "Mexico", "APLA database"]
+include-in-header:
+  text: |
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws",
+      "name": "Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Omar Hammoud-Gallego",
+          "@id": "https://www.omarhgallego.com/#person"
+        },
+        {
+          "@type": "Person",
+          "name": "Luisa Feline Freier"
+        }
+      ],
+      "datePublished": "2023",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "American Political Science Review"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1017/S000305542200082X"
+      },
+      "sameAs": "https://doi.org/10.1017/S000305542200082X",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": "refugee policy, asylum, Latin America, policy liberalisation, Argentina, Mexico, APLA database",
+      "abstract": "What drove an entire region in the Global South to significantly expand refugee protection in the early twenty-first century? In this paper, we test and build on political refugee theory via a mixed-methods approach to explain the liberalization of refugee legislation across Latin America. First, we use data from the new APLA Database, which measures legislative liberalization over a 30-year period, and test both general and region-specific immigration and refugee policy determinants through a series of nested Tobit and linear spatial panel-data regressions. Our models do not support some consistent predictors of policy liberalization identified by the literature such as immigrant and refugee stocks, democratization, and the number of emigrants, but they offer statistical evidence for the importance of leftist government ideology and regional integration. We then shed light on the causal mechanisms behind these correlations for two extreme but diverse cases: Argentina and Mexico. Based on process tracing and elite interviews, we suggest that the reason that leftist political ideology rather than institutional democratization and number of emigrants matters for policy liberalization is that Latin American executives embarked on symbolic human and migrant's rights discourses that ultimately enabled legislative change.",
+      "url": "https://www.omarhgallego.com/research/papers/symbolic-refugee-protection.html"
+    }
+    </script>
+---
+::: {.paper-meta}
+*American Political Science Review*, 117(2), 454-473 (2023) · [Open access, CC BY 4.0]{.badge-oa}
+
+[Publisher version (DOI)](https://doi.org/10.1017/S000305542200082X) · [Free PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf)
+:::
+
+**Best Paper Award (Honourable Mention), APSA Migration and Citizenship Section, 2024**
+
+## Abstract
+
+What drove an entire region in the Global South to significantly expand refugee protection in the early twenty-first century? In this paper, we test and build on political refugee theory via a mixed-methods approach to explain the liberalization of refugee legislation across Latin America. First, we use data from the new APLA Database, which measures legislative liberalization over a 30-year period, and test both general and region-specific immigration and refugee policy determinants through a series of nested Tobit and linear spatial panel-data regressions. Our models do not support some consistent predictors of policy liberalization identified by the literature such as immigrant and refugee stocks, democratization, and the number of emigrants, but they offer statistical evidence for the importance of leftist government ideology and regional integration. We then shed light on the causal mechanisms behind these correlations for two extreme but diverse cases: Argentina and Mexico. Based on process tracing and elite interviews, we suggest that the reason that leftist political ideology rather than institutional democratization and number of emigrants matters for policy liberalization is that Latin American executives embarked on symbolic human and migrant's rights discourses that ultimately enabled legislative change.

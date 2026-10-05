@@ -1,0 +1,63 @@
+---
+title: "Research"
+description: "Peer-reviewed articles, working papers and book chapters by Omar Hammoud-Gallego on migration and asylum policy, Venezuelan displacement and democratic representation."
+---
+
+## Migration and asylum policy
+
+::: {.pub}
+[The Return of the State: How European Governments Regulate Labour Market Competition from Migrant Workers](papers/return-of-the-state.qmd){.pub-title}<br>
+[With P. McGovern and E. R. Thielemann. *Comparative Migration Studies*, 13, 13 (2025).]{.pub-meta}<br>
+[[DOI](https://doi.org/10.1186/s40878-025-00433-3)]{.pub-links}
+:::
+
+::: {.pub}
+[The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being: A Difference-in-Differences Approach on Venezuelan Displacement](papers/visa-restrictions-venezuela.qmd){.pub-title}<br>
+[*World Development*, 182, 106709 (2024).]{.pub-meta}<br>
+[[DOI](https://doi.org/10.1016/j.worlddev.2024.106709)]{.pub-links}
+:::
+
+::: {.pub}
+[Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws](papers/symbolic-refugee-protection.qmd){.pub-title}<br>
+[With L. F. Freier. *American Political Science Review*, 117(2), 454-473 (2023).]{.pub-meta}<br>
+[[DOI](https://doi.org/10.1017/S000305542200082X) [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf)]{.pub-links}
+<br>[Best Paper Award (Honourable Mention), APSA Migration and Citizenship Section, 2024]{.award}
+:::
+
+::: {.pub}
+[A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020](papers/liberal-region-asylum.qmd){.pub-title}<br>
+[*International Migration Review*, 56(1), 63-96 (2022).]{.pub-meta}<br>
+[[DOI](https://doi.org/10.1177/01979183211026202) [PDF](https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202)]{.pub-links}
+<br>[Best Paper Award on Latin America, European Consortium for Political Research, 2019]{.award}
+:::
+
+## Democratic institutions and representation
+
+::: {.pub}
+[News Cycles and Satisfaction with Democracy: How the Pandemic Short-Circuited Media Polarization](papers/news-cycles-democracy.qmd){.pub-title}<br>
+[With R. S. Foa and X. Romero-Vidal. *British Journal of Political Science*, 55, e49 (2025).]{.pub-meta}<br>
+[[DOI](https://doi.org/10.1017/S0007123424000395) [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E4CB5516534D8E855D0E48230A4F0DA8/S0007123424000395a.pdf)]{.pub-links}
+:::
+
+::: {.pub}
+[Women Politicians' Networks Reduce Gender Gap in Political Ambition: A Randomized Field Experiment]{.pub-title}<br>
+[With K. Lawall, M. Pereira and D. Baron. Accepted at the British Journal of Political Science.]{.pub-meta}
+:::
+
+## Under review
+
+- Migration Policy in Low State Capacity Contexts: Evidence from the Venezuelan Migration. With L. F. Freier and M. Poertner.
+- [Industrial Matching in Refugees' Settlement Choices: Evidence from Venezuelans in Colombia](https://egobiernoytp.tec.mx/sites/default/files/2026-08/Industrial_Matching_Refugees_Settlement_Choices.pdf). With J. Morales-Arilla and R. Alleyne. Working Paper No. 38, Escuela de Gobierno y Transformación Pública, Tecnológico de Monterrey (2026).
+
+## Working papers
+
+- Not All Migrants: Geographic Origins and the Tren de Aragua's Regional Spread (with J. Morales-Arilla, D. Martin and A. Morales)
+- Homeowners in Office and Housing Policy (with K. Lawall and M. Pereira)
+- Sanctions, Secrecy, and Signals: What Nowcasting Reveals About Russia's War Economy (with R. Foa, E. Nazrullaeva, I. Timson-Smidt and C. Campana)
+- Displacement and Human Capital in Colombia (with A. Bandiera and A. Velázquez)
+- The Trade-Off Between Regular and Irregular Migration: How Reducing Labour Migration Opportunities Can Lead to an Increase in Irregular Migration (with M. Rosina)
+
+## Book chapter and review
+
+- Hammoud-Gallego, O., Fernández-Rodríguez, N. and Freier, L. F. (2020). Importancia y limitaciones de las normas jurídicas para el estudio de la política migratoria en América Latina. In L. Gandini (Ed.), *Perspectivas jurídicas de las migraciones internacionales*. SUDIMER, UNAM. [Link](https://play.google.com/store/books/details/Luciana_Gandini_Abordajes_sociojur%C3%ADdicos_contempor?id=D78xEAAAQBAJ)
+- Hammoud-Gallego, O. (2022). Review of Jubilut, Espinoza and Mezzanotti, *Latin America and Refugee Protection*. *International Migration*, 60: 234–237. [Link](https://doi.org/10.1111/imig.13036)

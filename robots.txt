@@ -1,0 +1,6 @@
+# omarhgallego.com — deliberately open to search engines and AI crawlers,
+# so that research and commentary can be found and cited.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.omarhgallego.com/sitemap.xml

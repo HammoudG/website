@@ -1,0 +1,64 @@
+---
+title: "A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020"
+description: "The APLA database codes asylum laws in 19 Latin American countries, 1990–2020, and shows the region liberalised asylum while OECD countries restricted it."
+author:
+  - name:
+      given: "Omar"
+      family: "Hammoud-Gallego"
+date: "2022"
+date-format: YYYY
+citation:
+  type: article-journal
+  issued: 2022
+  container-title: "International Migration Review"
+  volume: "56"
+  issue: "1"
+  page: "63-96"
+  doi: "10.1177/01979183211026202"
+  pdf-url: "https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202"
+google-scholar: true
+keywords: ["asylum policy", "Latin America", "policy measurement", "APLA database", "refugee protection"]
+include-in-header:
+  text: |
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020",
+      "name": "A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Omar Hammoud-Gallego",
+          "@id": "https://www.omarhgallego.com/#person"
+        }
+      ],
+      "datePublished": "2022",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "International Migration Review"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1177/01979183211026202"
+      },
+      "sameAs": "https://doi.org/10.1177/01979183211026202",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": "asylum policy, Latin America, policy measurement, APLA database, refugee protection",
+      "abstract": "Recent scholarship has claimed that countries across Latin America have been adopting an increasingly liberal and more advanced legal framework for the protection of refugees. Yet little systematic cross-country evidence beyond case studies exists to back up this claim. To address this gap in the literature, I develop a new methodology — called the Asylum Policies in Latin America (APLA) Database — to measure policy outputs on asylum across Latin America over time. Applying this new methodology, I present the results of the codification of 19 Latin American countries, over a 31-year period (1990–2020), using 65 indicators to track the development of policy measures on asylum. The findings from this new database confirm the claim from existing research that countries across Latin America have developed an increasingly complex and more liberal legal framework for the protection of refugees. This liberal trend in asylum legislation stands in contrast to findings of increased restrictiveness over the same period across OECD countries. The APLA Database represents a unique contribution to the fields of migration and refugee studies, as it provides systematic data on the nature and development of asylum policies in Latin America through highly disaggregated data on policy outputs. Additionally, APLA demonstrates the existence of intra-regional variation. It also allows scholars to develop and test hypotheses in the field of asylum studies and provides a reference database for comparative analyses of asylum policies in Latin America, as well as a framework for the comparative study of asylum policies across the globe.",
+      "url": "https://www.omarhgallego.com/research/papers/liberal-region-asylum.html"
+    }
+    </script>
+---
+::: {.paper-meta}
+*International Migration Review*, 56(1), 63-96 (2022) · [Open access, CC BY 4.0]{.badge-oa}
+
+[Publisher version (DOI)](https://doi.org/10.1177/01979183211026202) · [Free PDF](https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202)
+:::
+
+**Best Paper Award on Latin America, European Consortium for Political Research, 2019**
+
+## Abstract
+
+Recent scholarship has claimed that countries across Latin America have been adopting an increasingly liberal and more advanced legal framework for the protection of refugees. Yet little systematic cross-country evidence beyond case studies exists to back up this claim. To address this gap in the literature, I develop a new methodology — called the Asylum Policies in Latin America (APLA) Database — to measure policy outputs on asylum across Latin America over time. Applying this new methodology, I present the results of the codification of 19 Latin American countries, over a 31-year period (1990–2020), using 65 indicators to track the development of policy measures on asylum. The findings from this new database confirm the claim from existing research that countries across Latin America have developed an increasingly complex and more liberal legal framework for the protection of refugees. This liberal trend in asylum legislation stands in contrast to findings of increased restrictiveness over the same period across OECD countries. The APLA Database represents a unique contribution to the fields of migration and refugee studies, as it provides systematic data on the nature and development of asylum policies in Latin America through highly disaggregated data on policy outputs. Additionally, APLA demonstrates the existence of intra-regional variation. It also allows scholars to develop and test hypotheses in the field of asylum studies and provides a reference database for comparative analyses of asylum policies in Latin America, as well as a framework for the comparative study of asylum policies across the globe.

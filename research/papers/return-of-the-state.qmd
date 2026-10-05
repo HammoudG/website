@@ -1,0 +1,74 @@
+---
+title: "The Return of the State: How European Governments Regulate Labour Market Competition from Migrant Workers"
+description: "How Austria, Germany, Ireland and the UK converged on labour market tests, salary thresholds and waiting periods that limit competition from migrant workers, 1990–2020."
+author:
+  - name:
+      given: "Patrick"
+      family: "McGovern"
+  - name:
+      given: "Eiko R."
+      family: "Thielemann"
+  - name:
+      given: "Omar"
+      family: "Hammoud-Gallego"
+date: "2025"
+date-format: YYYY
+citation:
+  type: article-journal
+  issued: 2025
+  container-title: "Comparative Migration Studies"
+  volume: "13"
+  page: "13"
+  doi: "10.1186/s40878-025-00433-3"
+google-scholar: true
+keywords: ["labour migration", "third-country nationals", "Austria", "Germany", "Ireland", "United Kingdom", "European Union"]
+include-in-header:
+  text: |
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "The Return of the State: How European Governments Regulate Labour Market Competition from Migrant Workers",
+      "name": "The Return of the State: How European Governments Regulate Labour Market Competition from Migrant Workers",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Patrick McGovern"
+        },
+        {
+          "@type": "Person",
+          "name": "Eiko R. Thielemann"
+        },
+        {
+          "@type": "Person",
+          "name": "Omar Hammoud-Gallego",
+          "@id": "https://www.omarhgallego.com/#person"
+        }
+      ],
+      "datePublished": "2025",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Comparative Migration Studies"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1186/s40878-025-00433-3"
+      },
+      "sameAs": "https://doi.org/10.1186/s40878-025-00433-3",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": "labour migration, third-country nationals, Austria, Germany, Ireland, United Kingdom, European Union",
+      "abstract": "What is the role of the market economy and of the European Union in shaping policies that limit migrants' access to the labour market? While much of the existing research has examined the development of border policies in Europe, less attention has been given to post-entry measures regulating the employment of Third Country Nationals. We examine the role of different market economies and the European Union in devising lesser-known measures that target migrant labour market competition. Focusing on the period from 1990 to 2020, we analyse four case studies: Austria, Germany, Ireland, and the United Kingdom. We hypothesize that these migrant labour market competition measures (MCM) have emerged in ways that challenge both the marketization of migration thesis and predictions from theories of EU immigration policymaking and varieties of capitalism (VoC). While the European Union's influence partially explains the adoption of some selective policies, the emergence of MCM transcends the VoC framework. Furthermore, contrary to marketization claims, states have sought to address labour market concerns about competition from migrants by adopting selective, rather than indiscriminate, regulatory approaches. We argue that the interplay between selectivity and measures restricting migrant labour market competition has become central to understanding how states regulate migration in the European Union.",
+      "url": "https://www.omarhgallego.com/research/papers/return-of-the-state.html"
+    }
+    </script>
+---
+::: {.paper-meta}
+*Comparative Migration Studies*, 13, 13 (2025) · [Open access, CC BY 4.0]{.badge-oa}
+
+[Publisher version (DOI)](https://doi.org/10.1186/s40878-025-00433-3)
+:::
+
+## Abstract
+
+What is the role of the market economy and of the European Union in shaping policies that limit migrants' access to the labour market? While much of the existing research has examined the development of border policies in Europe, less attention has been given to post-entry measures regulating the employment of Third Country Nationals. We examine the role of different market economies and the European Union in devising lesser-known measures that target migrant labour market competition. Focusing on the period from 1990 to 2020, we analyse four case studies: Austria, Germany, Ireland, and the United Kingdom. We hypothesize that these migrant labour market competition measures (MCM) have emerged in ways that challenge both the marketization of migration thesis and predictions from theories of EU immigration policymaking and varieties of capitalism (VoC). While the European Union's influence partially explains the adoption of some selective policies, the emergence of MCM transcends the VoC framework. Furthermore, contrary to marketization claims, states have sought to address labour market concerns about competition from migrants by adopting selective, rather than indiscriminate, regulatory approaches. We argue that the interplay between selectivity and measures restricting migrant labour market competition has become central to understanding how states regulate migration in the European Union.

@@ -1,0 +1,169 @@
+# Single source of truth for publications. Edit here, then run:
+#   python3 _scripts/build_papers.py
+# Author order for unpublished work is not recorded (CV lists co-authors only).
+# Verified 2026-10-05 against the CV (Sept 2026) and Semantic Scholar / DOI records.
+
+articles:
+  - slug: symbolic-refugee-protection
+    description: "Why did Latin America expand refugee protection after 2000? Leftist executives adopted refugee laws largely as symbolic human-rights commitments. Evidence from the APLA database, Argentina and Mexico."
+    title: "Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws"
+    authors: ["Omar Hammoud-Gallego", "Luisa Feline Freier"]
+    journal: "American Political Science Review"
+    year: 2023
+    volume: "117"
+    issue: "2"
+    pages: "454-473"
+    doi: "10.1017/S000305542200082X"
+    licence: "CC BY 4.0"
+    pdf: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf"
+    award: "Best Paper Award (Honourable Mention), APSA Migration and Citizenship Section, 2024"
+    theme: migration
+    keywords: [refugee policy, asylum, Latin America, policy liberalisation, Argentina, Mexico, APLA database]
+    abstract: >-
+      What drove an entire region in the Global South to significantly expand refugee protection in the early
+      twenty-first century? In this paper, we test and build on political refugee theory via a mixed-methods
+      approach to explain the liberalization of refugee legislation across Latin America. First, we use data from
+      the new APLA Database, which measures legislative liberalization over a 30-year period, and test both general
+      and region-specific immigration and refugee policy determinants through a series of nested Tobit and linear
+      spatial panel-data regressions. Our models do not support some consistent predictors of policy liberalization
+      identified by the literature such as immigrant and refugee stocks, democratization, and the number of
+      emigrants, but they offer statistical evidence for the importance of leftist government ideology and regional
+      integration. We then shed light on the causal mechanisms behind these correlations for two extreme but diverse
+      cases: Argentina and Mexico. Based on process tracing and elite interviews, we suggest that the reason that
+      leftist political ideology rather than institutional democratization and number of emigrants matters for
+      policy liberalization is that Latin American executives embarked on symbolic human and migrant's rights
+      discourses that ultimately enabled legislative change.
+
+  - slug: visa-restrictions-venezuela
+    description: "Difference-in-differences evidence that visa restrictions on Venezuelans in South America pushed migrants onto irregular routes, with effects on their legal status and well-being."
+    title: "The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being: A Difference-in-Differences Approach on Venezuelan Displacement"
+    authors: ["Omar Hammoud-Gallego"]
+    journal: "World Development"
+    year: 2024
+    volume: "182"
+    pages: "106709"
+    doi: "10.1016/j.worlddev.2024.106709"
+    licence: "CC BY 4.0"
+    pdf: ""
+    theme: migration
+    keywords: [visa restrictions, Venezuelan migration, Peru, irregular migration, difference-in-differences, well-being]
+    # TODO(Omar): paste the published abstract here. The summary below paraphrases your own LSE blog (July 2024).
+    abstract: ""
+    summary: >-
+      When South American governments imposed visas on Venezuelans to slow arrivals, many migrants did not stop
+      coming. They switched to irregular entry routes. Using a difference-in-differences design, the article
+      estimates the short-term effects of these visa restrictions on migrants' legal status and well-being.
+
+  - slug: liberal-region-asylum
+    description: "The APLA database codes asylum laws in 19 Latin American countries, 1990–2020, and shows the region liberalised asylum while OECD countries restricted it."
+    title: "A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020"
+    authors: ["Omar Hammoud-Gallego"]
+    journal: "International Migration Review"
+    year: 2022
+    volume: "56"
+    issue: "1"
+    pages: "63-96"
+    doi: "10.1177/01979183211026202"
+    licence: "CC BY 4.0"
+    pdf: "https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202"
+    award: "Best Paper Award on Latin America, European Consortium for Political Research, 2019"
+    theme: migration
+    keywords: [asylum policy, Latin America, policy measurement, APLA database, refugee protection]
+    abstract: >-
+      Recent scholarship has claimed that countries across Latin America have been adopting an increasingly liberal
+      and more advanced legal framework for the protection of refugees. Yet little systematic cross-country evidence
+      beyond case studies exists to back up this claim. To address this gap in the literature, I develop a new
+      methodology — called the Asylum Policies in Latin America (APLA) Database — to measure policy outputs on asylum
+      across Latin America over time. Applying this new methodology, I present the results of the codification of
+      19 Latin American countries, over a 31-year period (1990–2020), using 65 indicators to track the development
+      of policy measures on asylum. The findings from this new database confirm the claim from existing research
+      that countries across Latin America have developed an increasingly complex and more liberal legal framework
+      for the protection of refugees. This liberal trend in asylum legislation stands in contrast to findings of
+      increased restrictiveness over the same period across OECD countries. The APLA Database represents a unique
+      contribution to the fields of migration and refugee studies, as it provides systematic data on the nature and
+      development of asylum policies in Latin America through highly disaggregated data on policy outputs.
+      Additionally, APLA demonstrates the existence of intra-regional variation. It also allows scholars to develop
+      and test hypotheses in the field of asylum studies and provides a reference database for comparative analyses
+      of asylum policies in Latin America, as well as a framework for the comparative study of asylum policies
+      across the globe.
+
+  - slug: return-of-the-state
+    description: "How Austria, Germany, Ireland and the UK converged on labour market tests, salary thresholds and waiting periods that limit competition from migrant workers, 1990–2020."
+    title: "The Return of the State: How European Governments Regulate Labour Market Competition from Migrant Workers"
+    authors: ["Patrick McGovern", "Eiko R. Thielemann", "Omar Hammoud-Gallego"]
+    journal: "Comparative Migration Studies"
+    year: 2025
+    volume: "13"
+    pages: "13"
+    doi: "10.1186/s40878-025-00433-3"
+    licence: "CC BY 4.0"
+    pdf: ""
+    theme: migration
+    keywords: [labour migration, third-country nationals, Austria, Germany, Ireland, United Kingdom, European Union]
+    abstract: >-
+      What is the role of the market economy and of the European Union in shaping policies that limit migrants'
+      access to the labour market? While much of the existing research has examined the development of border
+      policies in Europe, less attention has been given to post-entry measures regulating the employment of Third
+      Country Nationals. We examine the role of different market economies and the European Union in devising
+      lesser-known measures that target migrant labour market competition. Focusing on the period from 1990 to 2020,
+      we analyse four case studies: Austria, Germany, Ireland, and the United Kingdom. We hypothesize that these
+      migrant labour market competition measures (MCM) have emerged in ways that challenge both the marketization of
+      migration thesis and predictions from theories of EU immigration policymaking and varieties of capitalism
+      (VoC). While the European Union's influence partially explains the adoption of some selective policies, the
+      emergence of MCM transcends the VoC framework. Furthermore, contrary to marketization claims, states have
+      sought to address labour market concerns about competition from migrants by adopting selective, rather than
+      indiscriminate, regulatory approaches. We argue that the interplay between selectivity and measures
+      restricting migrant labour market competition has become central to understanding how states regulate
+      migration in the European Union.
+
+  - slug: news-cycles-democracy
+    description: "Less partisan news during the UK pandemic coincided with higher satisfaction with democracy and narrower partisan gaps. Evidence from 201,144 survey respondents and 1.5 million newspaper tweets."
+    title: "News Cycles and Satisfaction with Democracy: How the Pandemic Short-Circuited Media Polarization"
+    authors: ["Omar Hammoud-Gallego", "Roberto Stefan Foa", "Xavier Romero-Vidal"]
+    journal: "British Journal of Political Science"
+    year: 2025
+    volume: "55"
+    pages: "e49"
+    doi: "10.1017/S0007123424000395"
+    licence: "CC BY 4.0"
+    pdf: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E4CB5516534D8E855D0E48230A4F0DA8/S0007123424000395a.pdf"
+    theme: democracy
+    keywords: [satisfaction with democracy, media polarisation, COVID-19, topic models, sentiment analysis, United Kingdom]
+    abstract: >-
+      During the coronavirus pandemic in the United Kingdom, media outlets shifted their focus from divisive
+      political issues to more neutral topics like lifestyle, sports, and entertainment. This study explores how
+      this change in media content relates to partisan divides in satisfaction with democracy. Using data from a
+      representative survey of 201,144 individuals, we linked respondents' perceptions of democratic performance to
+      their daily media exposure. We did so by analysing 1.5 million tweets from British newspapers using a topic
+      modelling algorithm to identify shifts in topic salience and sentiment using sentiment analysis. Our findings
+      reveal a decline in partisan media exposure during the pandemic, associated with increased satisfaction with
+      democracy at both individual and collective levels, and a narrowing of cross-party divides. These results
+      contribute to discussions on affective polarization, the winner-loser gap in democratic evaluation, and media
+      framing effects, highlighting the potential influence of depoliticized news coverage on democratic attitudes.
+
+forthcoming:
+  - title: "Women Politicians' Networks Reduce Gender Gap in Political Ambition: A Randomized Field Experiment"
+    with: "K. Lawall, M. Pereira and D. Baron"
+    note: "Accepted at the British Journal of Political Science"
+    theme: democracy
+
+under_review:
+  - title: "Migration Policy in Low State Capacity Contexts: Evidence from the Venezuelan Migration"
+    with: "L. F. Freier and M. Poertner"
+  - title: "Industrial Matching in Refugees' Settlement Choices: Evidence from Venezuelans in Colombia"
+    with: "J. Morales-Arilla and R. Alleyne"
+    note: "Working Paper No. 38, Escuela de Gobierno y Transformación Pública, Tecnológico de Monterrey (2026)"
+    url: "https://egobiernoytp.tec.mx/sites/default/files/2026-08/Industrial_Matching_Refugees_Settlement_Choices.pdf"
+
+working_papers:
+  - "Not All Migrants: Geographic Origins and the Tren de Aragua's Regional Spread (with J. Morales-Arilla, D. Martin and A. Morales)"
+  - "Homeowners in Office and Housing Policy (with K. Lawall and M. Pereira)"
+  - "Sanctions, Secrecy, and Signals: What Nowcasting Reveals About Russia's War Economy (with R. Foa, E. Nazrullaeva, I. Timson-Smidt and C. Campana)"
+  - "Displacement and Human Capital in Colombia (with A. Bandiera and A. Velázquez)"
+  - "The Trade-Off Between Regular and Irregular Migration: How Reducing Labour Migration Opportunities Can Lead to an Increase in Irregular Migration (with M. Rosina)"
+
+chapters:
+  - text: "Hammoud-Gallego, O., Fernández-Rodríguez, N. and Freier, L. F. (2020). Importancia y limitaciones de las normas jurídicas para el estudio de la política migratoria en América Latina. In L. Gandini (Ed.), *Perspectivas jurídicas de las migraciones internacionales*. SUDIMER, UNAM."
+    url: "https://play.google.com/store/books/details/Luciana_Gandini_Abordajes_sociojur%C3%ADdicos_contempor?id=D78xEAAAQBAJ"
+  - text: "Hammoud-Gallego, O. (2022). Review of Jubilut, Espinoza and Mezzanotti, *Latin America and Refugee Protection*. *International Migration*, 60: 234–237."
+    url: "https://doi.org/10.1111/imig.13036"
