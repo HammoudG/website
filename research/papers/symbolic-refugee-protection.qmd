@@ -61,7 +61,7 @@ include-in-header:
 ::: {.paper-meta}
 *American Political Science Review*, 117(2), 454-473 (2023) · [Open access, CC BY 4.0]{.badge-oa}
 
-[Publisher version (DOI)](https://doi.org/10.1017/S000305542200082X) · [Free PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf)
+[Publisher version (DOI)](https://doi.org/10.1017/S000305542200082X) · [Free PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf) · [Data: APLA database](https://github.com/HammoudG/APLA_Dataset)
 :::
 
 **Best Paper Award (Honourable Mention), APSA Migration and Citizenship Section, 2024**

@@ -3,3 +3,6 @@ _site/
 __pycache__/
 *_files/
 .DS_Store
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,28 @@
+---
+title: "APLA: Asylum Policies in Latin America Database"
+description: "Open dataset coding asylum legislation in 19 Latin American countries, 1990–2020, on 65 indicators. Created by Omar Hammoud-Gallego."
+include-in-header:
+  text: |
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "APLA: Asylum Policies in Latin America Database",
+      "description": "Codification of asylum legislation in 19 Latin American countries over 1990–2020, using 65 indicators of policy outputs on asylum.",
+      "url": "https://www.omarhgallego.com/research/dataset-apla.html",
+      "sameAs": "https://github.com/HammoudG/APLA_Dataset",
+      "creator": {"@type": "Person", "@id": "https://www.omarhgallego.com/#person", "name": "Omar Hammoud-Gallego"},
+      "temporalCoverage": "1990/2020",
+      "spatialCoverage": {"@type": "Place", "name": "Latin America"},
+      "keywords": ["asylum policy", "refugee law", "Latin America", "policy measurement"],
+      "citation": "https://doi.org/10.1177/01979183211026202",
+      "isAccessibleForFree": true
+    }
+    </script>
+---
+
+The APLA database codes asylum legislation in 19 Latin American countries from 1990 to 2020, using 65 indicators of policy outputs. It is introduced in [Hammoud-Gallego (2022), *International Migration Review*](papers/liberal-region-asylum.qmd) and used in [Hammoud-Gallego and Freier (2023), *American Political Science Review*](papers/symbolic-refugee-protection.qmd).
+
+[Download the data on GitHub](https://github.com/HammoudG/APLA_Dataset)
+
+Please cite: Hammoud-Gallego, O. (2022). A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020. *International Migration Review*, 56(1), 63–96. <https://doi.org/10.1177/01979183211026202>

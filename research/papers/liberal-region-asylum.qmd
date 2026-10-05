@@ -54,7 +54,7 @@ include-in-header:
 ::: {.paper-meta}
 *International Migration Review*, 56(1), 63-96 (2022) · [Open access, CC BY 4.0]{.badge-oa}
 
-[Publisher version (DOI)](https://doi.org/10.1177/01979183211026202) · [Free PDF](https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202)
+[Publisher version (DOI)](https://doi.org/10.1177/01979183211026202) · [Free PDF](https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202) · [Data: APLA database](https://github.com/HammoudG/APLA_Dataset)
 :::
 
 **Best Paper Award on Latin America, European Consortium for Political Research, 2019**

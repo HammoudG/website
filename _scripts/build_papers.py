@@ -98,6 +98,8 @@ for p in data["articles"]:
     links = [f"[Publisher version (DOI)](https://doi.org/{p['doi']})"]
     if p.get("pdf"):
         links.append(f"[Free PDF]({p['pdf']})")
+    if p.get("data"):
+        links.append(f"[Data: APLA database]({p['data']})")
     meta = f"{venue(p)} ({p['year']})"
     if p.get("licence"):
         meta += f" · [Open access, {p['licence']}]{{.badge-oa}}"
@@ -121,6 +123,8 @@ def pub_block(p):
     links = [f"[DOI](https://doi.org/{p['doi']})"]
     if p.get("pdf"):
         links.append(f"[PDF]({p['pdf']})")
+    if p.get("data"):
+        links.append(f"[Data]({p['data']})")
     lines.append(f"[{' '.join(links)}]{{.pub-links}}")
     if p.get("award"):
         lines.append(f"<br>[{p['award']}]{{.award}}")
@@ -134,6 +138,7 @@ out = [
     'description: "Peer-reviewed articles, working papers and book chapters by Omar Hammoud-Gallego on migration and asylum policy, Venezuelan displacement and democratic representation."',
     "---",
     "",
+    "**Data:** [APLA, the Asylum Policies in Latin America database](dataset-apla.qmd) (19 countries, 1990–2020).\n",
     "## Migration and asylum policy\n",
 ]
 for p in sorted([a for a in data["articles"] if a["theme"] == "migration"], key=lambda a: -a["year"]):

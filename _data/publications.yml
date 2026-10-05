@@ -5,6 +5,7 @@
 
 articles:
   - slug: symbolic-refugee-protection
+    data: "https://github.com/HammoudG/APLA_Dataset"
     description: "Why did Latin America expand refugee protection after 2000? Leftist executives adopted refugee laws largely as symbolic human-rights commitments. Evidence from the APLA database, Argentina and Mexico."
     title: "Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws"
     authors: ["Omar Hammoud-Gallego", "Luisa Feline Freier"]
@@ -55,6 +56,7 @@ articles:
       estimates the short-term effects of these visa restrictions on migrants' legal status and well-being.
 
   - slug: liberal-region-asylum
+    data: "https://github.com/HammoudG/APLA_Dataset"
     description: "The APLA database codes asylum laws in 19 Latin American countries, 1990–2020, and shows the region liberalised asylum while OECD countries restricted it."
     title: "A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020"
     authors: ["Omar Hammoud-Gallego"]

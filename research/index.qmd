@@ -3,6 +3,8 @@ title: "Research"
 description: "Peer-reviewed articles, working papers and book chapters by Omar Hammoud-Gallego on migration and asylum policy, Venezuelan displacement and democratic representation."
 ---
 
+**Data:** [APLA, the Asylum Policies in Latin America database](dataset-apla.qmd) (19 countries, 1990–2020).
+
 ## Migration and asylum policy
 
 ::: {.pub}
@@ -20,14 +22,14 @@ description: "Peer-reviewed articles, working papers and book chapters by Omar H
 ::: {.pub}
 [Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws](papers/symbolic-refugee-protection.qmd){.pub-title}<br>
 [With L. F. Freier. *American Political Science Review*, 117(2), 454-473 (2023).]{.pub-meta}<br>
-[[DOI](https://doi.org/10.1017/S000305542200082X) [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf)]{.pub-links}
+[[DOI](https://doi.org/10.1017/S000305542200082X) [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf) [Data](https://github.com/HammoudG/APLA_Dataset)]{.pub-links}
 <br>[Best Paper Award (Honourable Mention), APSA Migration and Citizenship Section, 2024]{.award}
 :::
 
 ::: {.pub}
 [A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020](papers/liberal-region-asylum.qmd){.pub-title}<br>
 [*International Migration Review*, 56(1), 63-96 (2022).]{.pub-meta}<br>
-[[DOI](https://doi.org/10.1177/01979183211026202) [PDF](https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202)]{.pub-links}
+[[DOI](https://doi.org/10.1177/01979183211026202) [PDF](https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202) [Data](https://github.com/HammoudG/APLA_Dataset)]{.pub-links}
 <br>[Best Paper Award on Latin America, European Consortium for Political Research, 2019]{.award}
 :::
 
