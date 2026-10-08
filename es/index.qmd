@@ -3,6 +3,8 @@ title: "Omar Hammoud-Gallego"
 pagetitle: "Omar Hammoud-Gallego | Política migratoria y de refugio en América Latina"
 description: "Profesor de Políticas Públicas en la Universidad de Durham. Investiga la política migratoria y de refugio en América Latina, la migración venezolana y la representación democrática."
 lang: es
+image: ../files/headshot.jpg
+include-in-header: ../_includes/hreflang.html
 ---
 
 Soy científico de datos políticos y sociales, y profesor (*Assistant Professor*) de Políticas Públicas en la Escuela de Gobierno y Asuntos Internacionales de la Universidad de Durham (Reino Unido). Investigo cómo los gobiernos diseñan sus políticas migratorias y de refugio, qué efectos tienen sobre las personas migrantes y en qué medida las instituciones democráticas representan a la ciudadanía.
@@ -18,6 +20,6 @@ Soy investigador afiliado de la Cátedra IDRC sobre Migración y Desplazamiento 
 - Hammoud-Gallego, O. y Freier, L. F. (2023). [Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws](../research/papers/symbolic-refugee-protection.qmd). *American Political Science Review*, 117(2), 454–473.
 - Hammoud-Gallego, O. (2024). [The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being](../research/papers/visa-restrictions-venezuela.qmd). *World Development*, 182, 106709.
 - Hammoud-Gallego, O. (2022). [A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020](../research/papers/liberal-region-asylum.qmd). *International Migration Review*, 56(1), 63–96.
-- Hammoud-Gallego, O., Fernández-Rodríguez, N. y Freier, L. F. (2020). Importancia y limitaciones de las normas jurídicas para el estudio de la política migratoria en América Latina. En L. Gandini (Ed.), *Perspectivas jurídicas de las migraciones internacionales*. SUDIMER, UNAM.
+- Hammoud-Gallego, O., Fernández-Rodríguez, N. y Freier, L. F. (2020). Importancia y limitaciones de las normas jurídicas para el estudio de la política migratoria en América Latina. En L. Gandini (Ed.), *Abordajes sociojurídicos contemporáneos para el estudio de las migraciones internacionales*. SUDIMER, UNAM.
 
-Todas las publicaciones están en la [página de investigación](../research/index.qmd) (en inglés).
+Todas las publicaciones, con los PDF descargables, están en la [página de investigación](../research/index.qmd) (en inglés).

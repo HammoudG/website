@@ -1,6 +1,6 @@
 ---
 title: "The Short-Term Effects of Visa Restrictions on Migrants’ Legal Status and Well-Being: A Difference-in-Differences Approach on Venezuelan Displacement"
-description: "Difference-in-differences evidence that visa restrictions on Venezuelans in South America pushed migrants onto irregular routes, with effects on their legal status and well-being."
+description: "Difference-in-differences evidence from 85,000 surveyed migrants: visa restrictions in South America increased irregular entry and irregular status among Venezuelans."
 author:
   - name:
       given: "Omar"
@@ -14,8 +14,9 @@ citation:
   volume: "182"
   page: "106709"
   doi: "10.1016/j.worlddev.2024.106709"
+  pdf-url: "https://www.omarhgallego.com/files/papers/Hammoud-Gallego_2024_World_Development_Visa_Restrictions.pdf"
 google-scholar: true
-keywords: ["visa restrictions", "Venezuelan migration", "Peru", "irregular migration", "difference-in-differences", "well-being"]
+keywords: ["visa restrictions", "Venezuelan migration", "forced displacement", "irregular migration", "difference-in-differences", "South America"]
 include-in-header:
   text: |
     <script type="application/ld+json">
@@ -43,8 +44,8 @@ include-in-header:
       },
       "sameAs": "https://doi.org/10.1016/j.worlddev.2024.106709",
       "license": "https://creativecommons.org/licenses/by/4.0/",
-      "keywords": "visa restrictions, Venezuelan migration, Peru, irregular migration, difference-in-differences, well-being",
-      "abstract": "When South American governments imposed visas on Venezuelans to slow arrivals, many migrants did not stop coming. They switched to irregular entry routes. Using a difference-in-differences design, the article estimates the short-term effects of these visa restrictions on migrants' legal status and well-being.",
+      "keywords": "visa restrictions, Venezuelan migration, forced displacement, irregular migration, difference-in-differences, South America",
+      "abstract": "Most countries across the globe introduce visa restrictions to regulate immigration, yet little is known about their effect on migrants’ decision to migrate and their well-being. I study the mass displacement of Venezuelan nationals, and through a difference-in-differences research design, I compare the effectiveness of introducing visa restrictions in reducing overall migration flows in certain countries across South America. I use a data set of 85,000 migrants and refugees − mostly Venezuelans − surveyed by the UNHCR. Findings suggest that visa restrictions increased the likelihood of irregular entry and irregular visa status for migrants while also leading to changes in their priorities. Unexpectedly, I do not find evidence of increased violence suffered by migrants who switch towards irregular entry channels in specific countries. This research contributes to the academic and policy debate on the effectiveness of visa restrictions on migratory flows, as well the literature on the effects of migration policies on migrants’ well-being.",
       "url": "https://www.omarhgallego.com/research/papers/visa-restrictions-venezuela.html"
     }
     </script>
@@ -52,9 +53,9 @@ include-in-header:
 ::: {.paper-meta}
 *World Development*, 182, 106709 (2024) · [Open access, CC BY 4.0]{.badge-oa}
 
-[Publisher version (DOI)](https://doi.org/10.1016/j.worlddev.2024.106709)
+[Publisher version (DOI)](https://doi.org/10.1016/j.worlddev.2024.106709) · [Download PDF](../../files/papers/Hammoud-Gallego_2024_World_Development_Visa_Restrictions.pdf)
 :::
 
-## Summary
+## Abstract
 
-When South American governments imposed visas on Venezuelans to slow arrivals, many migrants did not stop coming. They switched to irregular entry routes. Using a difference-in-differences design, the article estimates the short-term effects of these visa restrictions on migrants' legal status and well-being.
+Most countries across the globe introduce visa restrictions to regulate immigration, yet little is known about their effect on migrants’ decision to migrate and their well-being. I study the mass displacement of Venezuelan nationals, and through a difference-in-differences research design, I compare the effectiveness of introducing visa restrictions in reducing overall migration flows in certain countries across South America. I use a data set of 85,000 migrants and refugees − mostly Venezuelans − surveyed by the UNHCR. Findings suggest that visa restrictions increased the likelihood of irregular entry and irregular visa status for migrants while also leading to changes in their priorities. Unexpectedly, I do not find evidence of increased violence suffered by migrants who switch towards irregular entry channels in specific countries. This research contributes to the academic and policy debate on the effectiveness of visa restrictions on migratory flows, as well the literature on the effects of migration policies on migrants’ well-being.

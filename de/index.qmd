@@ -1,0 +1,28 @@
+---
+title: "Omar Hammoud-Gallego"
+pagetitle: "Omar Hammoud-Gallego | Migrations- und Asylpolitik, demokratische Repräsentation"
+description: "Assistant Professor für Public Policy an der Durham University. Forschung zu Migrations- und Asylpolitik in Lateinamerika und Europa, zur venezolanischen Migration und zur demokratischen Repräsentation."
+lang: de
+image: ../files/headshot.jpg
+include-in-header: ../_includes/hreflang.html
+---
+
+Ich bin *Political and Social Data Scientist* und Assistant Professor für Public Policy an der School of Government and International Affairs der Durham University (Vereinigtes Königreich). Ich untersuche, wie Regierungen Migrations- und Asylpolitik gestalten, welche Folgen diese Politik für die betroffenen Menschen hat und wie gut demokratische Institutionen die Bürgerinnen und Bürger repräsentieren.
+
+In einer vergleichenden Studie zu Deutschland, Österreich, Irland und dem Vereinigten Königreich haben wir gezeigt, dass alle vier Länder zwischen 1990 und 2020 ähnliche Maßnahmen eingeführt haben, die den Wettbewerb durch Arbeitskräfte aus Drittstaaten auf dem Arbeitsmarkt begrenzen: Vorrangprüfungen, Mindestgehalts- oder Qualifikationsanforderungen, die Bindung an den Arbeitgeber und Wartezeiten für Asylsuchende (mit Patrick McGovern und Eiko Thielemann).
+
+Ein weiterer Schwerpunkt ist Lateinamerika, insbesondere die Fluchtbewegung aus Venezuela. Ich habe die APLA-Datenbank (*Asylum Policies in Latin America*) aufgebaut, die das Asylrecht von 19 lateinamerikanischen Ländern zwischen 1990 und 2020 erfasst, und gezeigt, dass die Region ihr Asylrecht liberalisiert hat, während die OECD-Länder es verschärften. Außerdem habe ich untersucht, wie die Einführung der Visumpflicht für Venezolanerinnen und Venezolaner in Südamerika irreguläre Einreisen und irregulären Aufenthalt erhöht hat.
+
+Ich bin Visiting Fellow am Department of Government der London School of Economics und Affiliated Fellow des IDRC-Lehrstuhls für Migration und Vertreibung an der Universidad del Pacífico (Peru). 2024 war ich Gastwissenschaftler am Mannheimer Zentrum für Europäische Sozialforschung (MZES). Ich habe Philosophie und Volkswirtschaftslehre an der Universität Heidelberg studiert und an der LSE promoviert.
+
+**Presseanfragen:** omar.hammoud-gallego@durham.ac.uk. Interviews auf Englisch, Spanisch und Italienisch.
+
+## Ausgewählte Publikationen
+
+- McGovern, P., Thielemann, E. und Hammoud-Gallego, O. (2025). [The Return of the State: How European Governments Regulate Labour Market Competition from Migrant Workers](../research/papers/return-of-the-state.qmd). *Comparative Migration Studies*, 13, 13.
+- Hammoud-Gallego, O. und Freier, L. F. (2023). [Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws](../research/papers/symbolic-refugee-protection.qmd). *American Political Science Review*, 117(2), 454–473.
+- Hammoud-Gallego, O. (2024). [The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being](../research/papers/visa-restrictions-venezuela.qmd). *World Development*, 182, 106709.
+- Hammoud-Gallego, O. (2022). [A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990–2020](../research/papers/liberal-region-asylum.qmd). *International Migration Review*, 56(1), 63–96.
+- Hammoud-Gallego, O., Foa, R. S. und Romero-Vidal, X. (2025). [News Cycles and Satisfaction with Democracy](../research/papers/news-cycles-democracy.qmd). *British Journal of Political Science*, 55, e49.
+
+Alle Publikationen mit PDFs finden Sie auf der [Seite Research](../research/index.qmd) (auf Englisch).

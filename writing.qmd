@@ -2,24 +2,50 @@
 title: "Writing & media"
 aliases:
   - /blo-and-opinion
-description: "Op-eds, blog posts and media appearances by Omar Hammoud-Gallego on UK asylum policy, small boats, Venezuelan migration and European labour migration."
+  - /news
+description: "Op-eds, blog posts, TV, radio and podcast appearances by Omar Hammoud-Gallego on UK asylum policy, small boats, Venezuelan migration and Latin American migration policy."
 ---
 
-I write for general readers about asylum and immigration policy in the UK, Europe and Latin America, and about local democracy in London.
+I write and comment for general audiences on asylum and immigration policy in the UK, Europe and Latin America, and on local democracy in London, in English and Spanish.
+
+**Media enquiries:** omar.hammoud-gallego@durham.ac.uk. Interviews in English, Spanish and Italian.
 
 ## Opinion and analysis
 
+- **Three likely scenarios for Venezuela after Donald Trump's meddling.** *The Big Issue*, 13 January 2026. [Read](https://www.bigissue.com/news/politics/venezuela-how-did-we-get-here/)
 - **Has immigration led to a new form of labour market protectionism in Europe?** With P. McGovern and E. Thielemann. *LSE European Politics and Policy (EUROPP)*, 19 August 2025. [Read](https://blogs.lse.ac.uk/europpblog/2025/08/19/has-immigration-led-to-a-new-form-of-labour-market-protectionism-in-europe/)
-- **Why representation in local politics in London matters.** With K. Lawall, A. Bulat and I. McRae. *LSE British Politics and Policy*, 2025. [Read](https://eprints.lse.ac.uk/127923/)
+- **Why representation in local politics in London matters.** With K. Lawall, A. Bulat and I. McRae. *LSE British Politics and Policy*, 19 March 2025. [Read](https://blogs.lse.ac.uk/politicsandpolicy/why-representation-in-local-politics-in-london-matters/)
 - **Labour's latest immigration policy is counterproductive.** *LSE British Politics and Policy*, 19 February 2025. [Read](https://blogs.lse.ac.uk/politicsandpolicy/labours-latest-immigration-policy-is-counterproductive/)
 - **A new wave of Venezuelan refugees would threaten a humanitarian crisis: Latin America could learn from Europe.** *The Conversation*, September 2024. [Read](https://theconversation.com/a-new-wave-of-venezuelan-refugees-would-threaten-a-humanitarian-crisis-latin-america-could-learn-from-europe-238345)
+- **Cómo no responder a la migración venezolana.** *El Comercio* (Peru), 5 September 2024. In Spanish. [Read](https://elcomercio.pe/opinion/colaboradores/venezuela-como-no-responder-a-la-migracion-venezolana-por-omar-hammoud-gallego-noticia/)
 - **Labour needs a pragmatic approach to the "small boats" issue.** *LSE British Politics and Policy*, 26 July 2024. [Read](https://blogs.lse.ac.uk/politicsandpolicy/labour-needs-a-pragmatic-approach-to-the-small-boats-issue/)
-- **Protección simbólica a los refugiados: las leyes progresistas que América Latina no pensó aplicar.** With L. F. Freier. *LSE Latin America and Caribbean Blog*, 2022.
+- **Symbolic refugee protection: why Latin America passed progressive refugee laws never meant to use.** With L. F. Freier. *LSE Latin America and Caribbean Blog*, 6 October 2022. [Read](https://blogs.lse.ac.uk/latamcaribbean/2022/10/06/refugee-protection-latin-america-refugee-laws-never-used/) · [En español](https://blogs.lse.ac.uk/latamcaribbean/2022/10/13/proteccion-simbolica-refugiados-america-latina/)
+- **Here to stay: Latin America must face up to the reality of long-term Venezuelan migration.** *LSE Latin America and Caribbean Blog*, 13 April 2021. [Read](https://blogs.lse.ac.uk/latamcaribbean/2021/04/13/here-to-stay-latin-america-must-face-up-to-the-reality-of-long-term-venezuelan-migration/) · [En español](https://blogs.lse.ac.uk/latamcaribbean/2021/04/23/aqui-para-quedarse-america-latina-necesita-enfrentar-la-realidad-de-la-migracion-venezolana-a-largo-plazo/)
 
-## Podcasts and interviews
+## Media appearances
 
-- *Veneco Podcast*, Episode 15. [Listen](https://venecopodcast.com/episode-15/)
+### Television
 
-## Media enquiries
+- **RTVE** (Spain), *Telediario*, 23 June 2024. On the expected Labour win in the UK general election. In Spanish. [Watch](https://www.rtve.es/play/videos/telediario-fin-de-semana/15-horas-23-06-24/16159154/)
+- **GB News**, 25 June 2024. Migration and asylum ahead of the UK general election. [Watch](https://www.youtube.com/live/9uq2sU2YO5U)
+- **GB News**, 18 March, 1 May and 21 May 2024. Debates with Nigel Farage, Christopher Hope and Tom Harwood on migration and asylum in the UK. [Watch](https://www.youtube.com/live/nUf3C9vcfac?t=1021) · [Watch](https://www.youtube.com/live/eeT7iWSQafs?t=866)
+- **GB News**, 29 February 2024. Debate with Nigel Farage on the economic contribution of migrants to the UK. [Watch](https://www.youtube.com/watch?v=Gm7i-7sCibE)
+- **Caracol Televisión** (Colombia), *Una Mirada al Mundo*, February 2024. Interview with María Emma Mejía on migration across Latin America. In Spanish. [Watch](https://www.caracoltv.com/una-mirada-al-mundo/capitulos/migracion-en-el-mundo-como-influira-este-fenomeno-en-las-elecciones-del-ano-pr30)
+- **GB News**, 12 December 2023 and 17 January 2024. Debates with Nigel Farage and Richard Tice on the UK government's Rwanda plan. [Watch (December)](https://www.youtube.com/watch?v=dUIhk_UVEQ0&t=1085s) · [Watch (January)](https://www.youtube.com/watch?v=zrBFT9H4R84)
 
-I comment on UK asylum and small-boats policy, refugee and migration policy in Latin America, Venezuelan displacement, and the representativeness of local government. I give interviews in English, Spanish and Italian. Email omar.hammoud-gallego@durham.ac.uk.
+### Radio and podcasts
+
+- **Panamá en Directo** (Panama), 27 June 2024. Venezuelan displacement and migrants crossing the Darién Gap. In Spanish. [Listen](https://www.youtube.com/watch?v=njxdLTkBkhU)
+- **Times Radio**, *Evening Edition* with Kait Borsay, 1 November 2022. The UK "migration crisis" in European context. [Listen](https://www.thetimes.co.uk/radio/show/20221101-15664/2022-11-01)
+- **Radio Social** (Panama), 29 October 2022. The Venezuelan migration crisis and the case for regularisation. In Spanish. [Listen](https://www.youtube.com/watch?v=K-EBrOykv24)
+- **Veneco Podcast**, Episode 15, October 2022. Asylum and refugee systems in Latin America, with Juan Andrés Misle. [Listen on Spotify](https://open.spotify.com/episode/0BfUaanro8Iqc1HPAzPKEN) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/veneco-podcast-episode-15-omar-hammoud-gallego/id1570543916?i=1000585035585)
+
+### Press and online interviews
+
+- **Centro de Políticas Migratorias** (Chile), Instagram Live with Juan Pablo Ramaciotti, 31 May 2024. Migration in Latin America. In Spanish. [Watch](https://www.instagram.com/reel/C7o2SN_N6jO/)
+- **LSE Research for the World**, June 2024. "The fourth estate: can the media change our feelings about democracy?", on the *British Journal of Political Science* study. [Read](https://www.lse.ac.uk/research/research-for-the-world/politics/media-feelings-democracy)
+- **El Pitazo** (Venezuela), June 2023. On the low recognition rates of Venezuelans as refugees in Latin America, for World Refugee Day. In Spanish. [Read](https://elpitazo.net/migracion/avanzadas-pero-simbolicas-leyes-sobre-refugiados-frustran-suenos-de-venezolanos/)
+
+## Talks
+
+- **Center for Global Development**, Washington DC, 3 October 2022. Research seminar on asylum policy in Latin America and visa restrictions on Venezuelans, chaired by Michael Clemens with Mathias Czaika as discussant. [Event and recording](https://www.cgdev.org/event/research-seminar-series-conversation-omar-hammoud-gallego)

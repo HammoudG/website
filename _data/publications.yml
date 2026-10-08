@@ -16,7 +16,7 @@ articles:
     pages: "454-473"
     doi: "10.1017/S000305542200082X"
     licence: "CC BY 4.0"
-    pdf: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C76C7712622C5DCB11ABD0F5DD5A680F/S000305542200082Xa.pdf"
+    pdf: "files/papers/Hammoud-Gallego_Freier_2023_APSR_Symbolic_Refugee_Protection.pdf"
     award: "Best Paper Award (Honourable Mention), APSA Migration and Citizenship Section, 2024"
     theme: migration
     keywords: [refugee policy, asylum, Latin America, policy liberalisation, Argentina, Mexico, APLA database]
@@ -36,7 +36,7 @@ articles:
       discourses that ultimately enabled legislative change.
 
   - slug: visa-restrictions-venezuela
-    description: "Difference-in-differences evidence that visa restrictions on Venezuelans in South America pushed migrants onto irregular routes, with effects on their legal status and well-being."
+    description: "Difference-in-differences evidence from 85,000 surveyed migrants: visa restrictions in South America increased irregular entry and irregular status among Venezuelans."
     title: "The Short-Term Effects of Visa Restrictions on Migrants' Legal Status and Well-Being: A Difference-in-Differences Approach on Venezuelan Displacement"
     authors: ["Omar Hammoud-Gallego"]
     journal: "World Development"
@@ -45,15 +45,11 @@ articles:
     pages: "106709"
     doi: "10.1016/j.worlddev.2024.106709"
     licence: "CC BY 4.0"
-    pdf: ""
+    pdf: "files/papers/Hammoud-Gallego_2024_World_Development_Visa_Restrictions.pdf"
     theme: migration
-    keywords: [visa restrictions, Venezuelan migration, Peru, irregular migration, difference-in-differences, well-being]
-    # TODO(Omar): paste the published abstract here. The summary below paraphrases your own LSE blog (July 2024).
-    abstract: ""
-    summary: >-
-      When South American governments imposed visas on Venezuelans to slow arrivals, many migrants did not stop
-      coming. They switched to irregular entry routes. Using a difference-in-differences design, the article
-      estimates the short-term effects of these visa restrictions on migrants' legal status and well-being.
+    keywords: [visa restrictions, Venezuelan migration, forced displacement, irregular migration, difference-in-differences, South America]
+    abstract: >-
+      Most countries across the globe introduce visa restrictions to regulate immigration, yet little is known about their effect on migrants’ decision to migrate and their well-being. I study the mass displacement of Venezuelan nationals, and through a difference-in-differences research design, I compare the effectiveness of introducing visa restrictions in reducing overall migration flows in certain countries across South America. I use a data set of 85,000 migrants and refugees − mostly Venezuelans − surveyed by the UNHCR. Findings suggest that visa restrictions increased the likelihood of irregular entry and irregular visa status for migrants while also leading to changes in their priorities. Unexpectedly, I do not find evidence of increased violence suffered by migrants who switch towards irregular entry channels in specific countries. This research contributes to the academic and policy debate on the effectiveness of visa restrictions on migratory flows, as well the literature on the effects of migration policies on migrants’ well-being.
 
   - slug: liberal-region-asylum
     data: "https://github.com/HammoudG/APLA_Dataset"
@@ -67,7 +63,7 @@ articles:
     pages: "63-96"
     doi: "10.1177/01979183211026202"
     licence: "CC BY 4.0"
-    pdf: "https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202"
+    pdf: "files/papers/Hammoud-Gallego_2022_IMR_Liberal_Region_Asylum.pdf"
     award: "Best Paper Award on Latin America, European Consortium for Political Research, 2019"
     theme: migration
     keywords: [asylum policy, Latin America, policy measurement, APLA database, refugee protection]
@@ -99,7 +95,7 @@ articles:
     pages: "13"
     doi: "10.1186/s40878-025-00433-3"
     licence: "CC BY 4.0"
-    pdf: ""
+    pdf: "files/papers/McGovern_Thielemann_Hammoud-Gallego_2025_CMS_Return_of_the_State.pdf"
     theme: migration
     keywords: [labour migration, third-country nationals, Austria, Germany, Ireland, United Kingdom, European Union]
     abstract: >-
@@ -128,7 +124,7 @@ articles:
     pages: "e49"
     doi: "10.1017/S0007123424000395"
     licence: "CC BY 4.0"
-    pdf: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E4CB5516534D8E855D0E48230A4F0DA8/S0007123424000395a.pdf"
+    pdf: "files/papers/Hammoud-Gallego_Foa_Romero-Vidal_2025_BJPolS_News_Cycles.pdf"
     theme: democracy
     keywords: [satisfaction with democracy, media polarisation, COVID-19, topic models, sentiment analysis, United Kingdom]
     abstract: >-
@@ -155,7 +151,8 @@ under_review:
   - title: "Industrial Matching in Refugees' Settlement Choices: Evidence from Venezuelans in Colombia"
     with: "J. Morales-Arilla and R. Alleyne"
     note: "Working Paper No. 38, Escuela de Gobierno y Transformación Pública, Tecnológico de Monterrey (2026)"
-    url: "https://egobiernoytp.tec.mx/sites/default/files/2026-08/Industrial_Matching_Refugees_Settlement_Choices.pdf"
+    url: "files/papers/Morales-Arilla_Alleyne_Hammoud-Gallego_2026_WP_Industrial_Matching.pdf"
+    source_url: "https://egobiernoytp.tec.mx/sites/default/files/2026-08/Industrial_Matching_Refugees_Settlement_Choices.pdf"
 
 working_papers:
   - "Not All Migrants: Geographic Origins and the Tren de Aragua's Regional Spread (with J. Morales-Arilla, D. Martin and A. Morales)"
@@ -165,7 +162,7 @@ working_papers:
   - "The Trade-Off Between Regular and Irregular Migration: How Reducing Labour Migration Opportunities Can Lead to an Increase in Irregular Migration (with M. Rosina)"
 
 chapters:
-  - text: "Hammoud-Gallego, O., Fernández-Rodríguez, N. and Freier, L. F. (2020). Importancia y limitaciones de las normas jurídicas para el estudio de la política migratoria en América Latina. In L. Gandini (Ed.), *Perspectivas jurídicas de las migraciones internacionales*. SUDIMER, UNAM."
+  - text: "Hammoud-Gallego, O., Fernández-Rodríguez, N. and Freier, L. F. (2020). Importancia y limitaciones de las normas jurídicas para el estudio de la política migratoria en América Latina. In L. Gandini (Ed.), *Abordajes sociojurídicos contemporáneos para el estudio de las migraciones internacionales*. SUDIMER, UNAM."
     url: "https://play.google.com/store/books/details/Luciana_Gandini_Abordajes_sociojur%C3%ADdicos_contempor?id=D78xEAAAQBAJ"
   - text: "Hammoud-Gallego, O. (2022). Review of Jubilut, Espinoza and Mezzanotti, *Latin America and Refugee Protection*. *International Migration*, 60: 234–237."
     url: "https://doi.org/10.1111/imig.13036"

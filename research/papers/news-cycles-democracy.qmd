@@ -20,7 +20,7 @@ citation:
   volume: "55"
   page: "e49"
   doi: "10.1017/S0007123424000395"
-  pdf-url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E4CB5516534D8E855D0E48230A4F0DA8/S0007123424000395a.pdf"
+  pdf-url: "https://www.omarhgallego.com/files/papers/Hammoud-Gallego_Foa_Romero-Vidal_2025_BJPolS_News_Cycles.pdf"
 google-scholar: true
 keywords: ["satisfaction with democracy", "media polarisation", "COVID-19", "topic models", "sentiment analysis", "United Kingdom"]
 include-in-header:
@@ -67,7 +67,7 @@ include-in-header:
 ::: {.paper-meta}
 *British Journal of Political Science*, 55, e49 (2025) · [Open access, CC BY 4.0]{.badge-oa}
 
-[Publisher version (DOI)](https://doi.org/10.1017/S0007123424000395) · [Free PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E4CB5516534D8E855D0E48230A4F0DA8/S0007123424000395a.pdf)
+[Publisher version (DOI)](https://doi.org/10.1017/S0007123424000395) · [Download PDF](../../files/papers/Hammoud-Gallego_Foa_Romero-Vidal_2025_BJPolS_News_Cycles.pdf)
 :::
 
 ## Abstract

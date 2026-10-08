@@ -27,3 +27,34 @@ h1, h2, h3 { font-weight: 600; letter-spacing: -0.01em; }
 
 .paper-meta { color: #555; margin-bottom: 1.5rem; }
 .badge-oa { font-size: 0.8rem; background: #f3eef4; color: $primary; padding: 0.1rem 0.45rem; border-radius: 3px; }
+
+/* Home page: on phones and small tablets show photo, name, bio, then the
+   contact/profile buttons at the end (Quarto's trestles layout otherwise
+   puts the buttons above the bio). */
+@media (max-width: 991.98px) {
+  .quarto-about-trestles {
+    display: flex;
+    flex-direction: column;
+  }
+  div.quarto-about-trestles .about-entity { display: contents !important; }
+  .quarto-about-trestles .about-image {
+    order: 1;
+    align-self: center;
+    max-width: 60vw;
+    margin-top: 1.25rem;
+    margin-bottom: 1rem;
+  }
+  .quarto-about-trestles #title-block-header { order: 2; text-align: center; }
+  .quarto-about-trestles .about-contents { order: 3; }
+  .quarto-about-trestles .about-links {
+    order: 4;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 1.5rem 0 2rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid #e6e1e8;
+  }
+  .quarto-about-trestles .about-link { margin: 0 !important; }
+}

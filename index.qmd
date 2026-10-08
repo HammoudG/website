@@ -4,12 +4,15 @@ pagetitle: "Omar Hammoud-Gallego | Migration and asylum policy, democratic repre
 description: "Assistant Professor in Public Policy at Durham University. Research on Latin American migration and asylum policy, Venezuelan displacement, UK immigration policy and democratic representation."
 page-layout: full
 title-block-banner: false
-# Add your portrait as files/headshot.jpg, then uncomment the two image lines below
-# and add `image: files/headshot.jpg` above for social-media previews.
+image: files/headshot.jpg
+include-in-header: _includes/hreflang.html
 about:
+  id: about-omar
   template: trestles
-  # image: files/headshot.jpg
-  # image-alt: "Portrait of Omar Hammoud-Gallego"
+  image: files/headshot.jpg
+  image-alt: "Portrait of Omar Hammoud-Gallego"
+  image-shape: rounded
+  image-width: 14em
   links:
     - icon: envelope
       text: Email
@@ -18,9 +21,6 @@ about:
       href: https://www.durham.ac.uk/staff/omar-hammoud-gallego/
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=2UQGkJgAAAAJ
-    - icon: github
-      text: GitHub
-      href: https://github.com/HammoudG
     - text: Bluesky
       href: https://bsky.app/profile/omarhgallego.bsky.social
 ---

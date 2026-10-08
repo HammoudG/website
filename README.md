@@ -11,7 +11,8 @@ Source for Omar Hammoud-Gallego's academic website, built with [Quarto](https://
 | `_data/publications.yml` | **The publication list, kept in one place.** Edit it, then run `python3 _scripts/build_papers.py` |
 | `research/` | Generated research list and one page per article (do not edit these by hand) |
 | `writing.qmd`, `reports.qmd`, `teaching.qmd`, `cv.qmd` | Other pages |
-| `es/index.qmd` | Spanish landing page |
+| `es/`, `it/`, `de/` | Spanish, Italian and German landing pages (linked to each other for Google via `_includes/hreflang.html`) |
+| `files/papers/`, `files/reports/` | Full-text PDFs of articles and policy reports |
 | `_includes/person-jsonld.html` | Structured data that tells Google who you are and which profiles are yours |
 | `llms.txt` | Plain-text summary for AI search tools |
 | `robots.txt` | Allows all search and AI crawlers |
@@ -38,13 +39,11 @@ To add a publication by hand: add an entry to `_data/publications.yml`, run `pyt
    - `CNAME` record: `www` → `hammoudg.github.io`
    - `A` records for the bare domain `@`: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
    DNS changes can take up to 24 hours.
-3. **Before cancelling Squarespace**, download every PDF hosted on it, including the two Migrant Democracy Project reports linked from `reports.qmd` if they are on your Squarespace account. Put them in `files/` and update the links.
-4. **Old URLs.** Squarespace page addresses (e.g. `/blo-and-opinion`) need redirects, or links to them from elsewhere will break. Add each old path under `aliases:` in the matching page. `/blo-and-opinion` is already done.
+3. **Before cancelling Squarespace**, download any remaining PDFs hosted on it (e.g. the 2023 Camden pilot diversity survey). The reports and papers are already in `files/`.
+4. **Old URLs.** Squarespace page addresses (e.g. `/blo-and-opinion`) need redirects, or links to them from elsewhere will break. Add each old path under `aliases:` in the matching page (see below for those already done).
 5. **Google Search Console.** Add `https://www.omarhgallego.com` as a property, verify it, and submit `https://www.omarhgallego.com/sitemap.xml`.
 6. Keep the domain registration itself; only the Squarespace *website* plan can be cancelled.
 
-## Still to add
+## Old Squarespace addresses already redirected
 
-- `files/headshot.jpg` (portrait; then uncomment the image lines in `index.qmd`), which also gives social-media previews an image.
-- Abstract for the *World Development* article in `_data/publications.yml`.
-- Markdown versions of each open-access paper next to the PDF (all five published articles are CC BY, so the full text can be hosted here).
+`/blo-and-opinion` and `/news` → Writing & media; `/publications` → Research.

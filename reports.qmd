@@ -1,12 +1,48 @@
 ---
 title: "Policy reports"
-description: "Policy reports by Omar Hammoud-Gallego on the diversity and experiences of London councillors, migrant political participation, and corruption in Ghana (UNODC)."
+description: "Policy reports by Omar Hammoud-Gallego on the diversity and experiences of London councillors, civic and democratic participation of Londoners, voter ID, and corruption in Ghana (UNODC)."
 ---
 
-- **Mind the (Representation) Gap: How London's councillors reflect the diversity of its population.** Hammoud-Gallego, O., Lawall, K., McRae, I. and Bulat, A. (2024). Migrant Democracy Project and LSE. [PDF](https://static1.squarespace.com/static/67ea876e60639a46714a8c3a/t/67ed36a87430f01706b87fda/1743599273276/Mind+the+Rep+Gap.pdf)
-- **The Challenge of Being a Politician: How local councillors in London experience their role.** Hammoud-Gallego, O., Lawall, K., McRae, I. and Bulat, A. (2024). Migrant Democracy Project and LSE. [PDF](https://static1.squarespace.com/static/67ea876e60639a46714a8c3a/t/67ed36c2153f5405356535c2/1743599299307/The+Challenge+of+Being+a+Politician.pdf)
-- **Corruption in Ghana: People's Experiences and Views.** United Nations Office on Drugs and Crime (2022). Vienna. Co-author. [PDF](https://www.unodc.org/documents/corruption/Publications/2022/GHANA_-_Corruption_survey_report_-_20.07.2022.pdf)
-- **London Voices: The journey to full participation.** Hammoud-Gallego, O. et al. (2021). the3million. [Link](https://the3million.org.uk/london-voices)
+## Local democracy in London (Migrant Democracy Project and LSE)
+
+::: {.pub}
+**Mind the (Representation) Gap: How London's councillors reflect the diversity of its population**<br>
+[Hammoud-Gallego, O., Lawall, K., McRae, I. and Bulat, A. Findings from the 2024 London Councillors Survey. Migrant Democracy Project and LSE, August 2024.]{.pub-meta}<br>
+[[Download PDF](files/reports/MDP-LSE_2024_Mind_the_Representation_Gap.pdf)]{.pub-links}
+:::
+
+::: {.pub}
+**The Challenge of Being a Politician: How local councillors in London experience their role as elected officials**<br>
+[Hammoud-Gallego, O., Lawall, K., McRae, I. and Bulat, A. Findings from the 2024 London Councillors Survey. Migrant Democracy Project and LSE, August 2024.]{.pub-meta}<br>
+[[Download PDF](files/reports/MDP-LSE_2024_The_Challenge_of_Being_a_Politician.pdf)]{.pub-links}
+:::
+
+## Civic and democratic participation in London (the3million, Young Europeans Network)
+
+Research team: O. Hammoud-Gallego, K. Lawall, I. McRae, R. Moise and S. Wanga; project manager A. Bulat. December 2021.
+
+::: {.pub}
+**London Voices: The journey to full participation.** Full research report<br>
+[[Download PDF](files/reports/the3million_2021_London_Voices_Full_Report.pdf)]{.pub-links}
+:::
+
+::: {.pub}
+**London Voices.** Executive summary<br>
+[[Download PDF](files/reports/the3million_2021_London_Voices_Executive_Summary.pdf)]{.pub-links}
+:::
+
+::: {.pub}
+**London's civil society has deep concerns about the equality implications of photo voter IDs and supports residence-based voting rights for all Londoners.** Briefing paper on the Elections Bill<br>
+[[Download PDF](files/reports/the3million_2021_Briefing_Voter_ID_and_Voting_Rights.pdf)]{.pub-links}
+:::
+
+## Corruption and governance (United Nations)
+
+::: {.pub}
+**Corruption in Ghana: People's Experiences and Views**<br>
+[United Nations Office on Drugs and Crime, Vienna, 2022. Co-author. Based on a survey of 15,000 respondents across Ghana.]{.pub-meta}<br>
+[[Download PDF](files/reports/UNODC_2022_Corruption_in_Ghana.pdf)]{.pub-links}
+:::
 
 ## Funded projects
 

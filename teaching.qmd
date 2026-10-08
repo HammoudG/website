@@ -5,7 +5,7 @@ description: "Omar Hammoud-Gallego's teaching in public policy, political scienc
 
 ## Durham University (2024–present)
 
-- **The Making of a Policymaker** (MSc Public Policy, convenor)
+- **The Making of a Policymaker** (MSc Public Policy)
 - **Public Policy Reform** (MSc Public Policy, convenor)
 - **Researching Politics and International Relations** (undergraduate; quantitative and qualitative methods)
 - **Research Project: Public Policy Challenges in Latin America** (undergraduate)

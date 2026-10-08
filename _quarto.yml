@@ -11,12 +11,12 @@ website:
   title: "Omar Hammoud-Gallego"
   description: "Omar Hammoud-Gallego is Assistant Professor in Public Policy at Durham University. Research on migration and asylum policy in Latin America and Europe, and on democratic representation in the UK."
   site-url: https://www.omarhgallego.com
-  repo-url: https://github.com/HammoudG/website
   favicon: files/favicon.svg
   open-graph:
     locale: en_GB
     site-name: "Omar Hammoud-Gallego"
   twitter-card: true
+  image: files/headshot.jpg
   search: true
   navbar:
     left:
@@ -33,11 +33,18 @@ website:
       - href: cv.qmd
         text: CV
     right:
-      - href: es/index.qmd
-        text: Español
-      - icon: github
-        href: https://github.com/HammoudG
-        aria-label: GitHub
+      - text: "Language"
+        icon: translate
+        aria-label: "Choose language"
+        menu:
+          - text: English
+            href: index.qmd
+          - text: Español
+            href: es/index.qmd
+          - text: Italiano
+            href: it/index.qmd
+          - text: Deutsch
+            href: de/index.qmd
   page-footer:
     left: "© 2026 Omar Hammoud-Gallego · School of Government and International Affairs, Durham University"
     right:

@@ -16,6 +16,12 @@ papers_dir = ROOT / "research/papers"
 papers_dir.mkdir(parents=True, exist_ok=True)
 
 ME = "Omar Hammoud-Gallego"
+SITE = "https://www.omarhgallego.com/"
+
+
+def rel(url, depth):
+    """Site-relative file paths need ../ per directory level; external URLs pass through."""
+    return url if url.startswith("http") else "../" * depth + url
 
 
 def short_authors(authors):
@@ -82,7 +88,7 @@ for p in data["articles"]:
         *( [f"  issue: {yq(p['issue'])}"] if p.get("issue") else [] ),
         f"  page: {yq(p['pages'])}",
         f"  doi: {yq(p['doi'])}",
-        *( [f"  pdf-url: {yq(p['pdf'])}"] if p.get("pdf") else [] ),
+        *( [f"  pdf-url: {yq(SITE + p['pdf'])}"] if p.get("pdf") else [] ),
         "google-scholar: true",
         f"keywords: {json.dumps(p.get('keywords', []), ensure_ascii=False)}",
         "include-in-header:",
@@ -97,7 +103,7 @@ for p in data["articles"]:
     body = []
     links = [f"[Publisher version (DOI)](https://doi.org/{p['doi']})"]
     if p.get("pdf"):
-        links.append(f"[Free PDF]({p['pdf']})")
+        links.append(f"[Download PDF]({rel(p['pdf'], 2)})")
     if p.get("data"):
         links.append(f"[Data: APLA database]({p['data']})")
     meta = f"{venue(p)} ({p['year']})"
@@ -122,7 +128,7 @@ def pub_block(p):
     ]
     links = [f"[DOI](https://doi.org/{p['doi']})"]
     if p.get("pdf"):
-        links.append(f"[PDF]({p['pdf']})")
+        links.append(f"[PDF]({rel(p['pdf'], 1)})")
     if p.get("data"):
         links.append(f"[Data]({p['data']})")
     lines.append(f"[{' '.join(links)}]{{.pub-links}}")
@@ -135,6 +141,8 @@ def pub_block(p):
 out = [
     "---",
     'title: "Research"',
+    "aliases:",
+    "  - /publications",
     'description: "Peer-reviewed articles, working papers and book chapters by Omar Hammoud-Gallego on migration and asylum policy, Venezuelan displacement and democratic representation."',
     "---",
     "",
@@ -151,7 +159,7 @@ for f in data.get("forthcoming", []):
 
 out.append("## Under review\n")
 for u in data.get("under_review", []):
-    t = f"[{u['title']}]({u['url']})" if u.get("url") else u["title"]
+    t = f"[{u['title']}]({rel(u['url'], 1)})" if u.get("url") else u["title"]
     note = f" {u['note']}." if u.get("note") else ""
     out.append(f"- {t}. With {u['with']}.{note}")
 out.append("\n## Working papers\n")

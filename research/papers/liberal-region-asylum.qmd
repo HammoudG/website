@@ -15,7 +15,7 @@ citation:
   issue: "1"
   page: "63-96"
   doi: "10.1177/01979183211026202"
-  pdf-url: "https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202"
+  pdf-url: "https://www.omarhgallego.com/files/papers/Hammoud-Gallego_2022_IMR_Liberal_Region_Asylum.pdf"
 google-scholar: true
 keywords: ["asylum policy", "Latin America", "policy measurement", "APLA database", "refugee protection"]
 include-in-header:
@@ -54,7 +54,7 @@ include-in-header:
 ::: {.paper-meta}
 *International Migration Review*, 56(1), 63-96 (2022) · [Open access, CC BY 4.0]{.badge-oa}
 
-[Publisher version (DOI)](https://doi.org/10.1177/01979183211026202) · [Free PDF](https://journals.sagepub.com/doi/pdf/10.1177/01979183211026202) · [Data: APLA database](https://github.com/HammoudG/APLA_Dataset)
+[Publisher version (DOI)](https://doi.org/10.1177/01979183211026202) · [Download PDF](../../files/papers/Hammoud-Gallego_2022_IMR_Liberal_Region_Asylum.pdf) · [Data: APLA database](https://github.com/HammoudG/APLA_Dataset)
 :::
 
 **Best Paper Award on Latin America, European Consortium for Political Research, 2019**

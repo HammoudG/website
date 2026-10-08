@@ -1,12 +1,12 @@
 # Omar Hammoud-Gallego
 
-> Assistant Professor in Public Policy, School of Government and International Affairs, Durham University (UK). Political and social data scientist working on migration and asylum policy (Latin America, Venezuelan displacement, the UK and Europe) and on democratic representation and satisfaction with democracy. Visiting Fellow, LSE Department of Government; Affiliated Fellow, IDRC Chair on Migration and Displacement, Universidad del Pacífico (Peru). PhD, LSE. Media contact: omar.hammoud-gallego@durham.ac.uk (English, Spanish, Italian).
+> Assistant Professor in Public Policy, School of Government and International Affairs, Durham University (UK). Political and social data scientist working on migration and asylum policy (Latin America, Venezuelan displacement, the UK and Europe) and on democratic representation and satisfaction with democracy. Visiting Fellow, LSE Department of Government; Affiliated Fellow, IDRC Chair on Migration and Displacement, Universidad del Pacífico (Peru). PhD, LSE. Media contact: omar.hammoud-gallego@durham.ac.uk (interviews in English, Spanish, Italian).
 
 ## Main findings
 
 - Latin American countries liberalised their asylum laws between 1990 and 2020, against the restrictive trend in OECD countries (APLA database, 19 countries, 65 indicators): https://www.omarhgallego.com/research/papers/liberal-region-asylum.html
 - This liberalisation was driven by leftist government ideology and regional integration rather than refugee numbers or democratisation; executives used refugee law as a symbolic human-rights commitment (Argentina and Mexico case studies): https://www.omarhgallego.com/research/papers/symbolic-refugee-protection.html
-- Visa restrictions imposed on Venezuelans in South America shifted many migrants to irregular entry routes (difference-in-differences): https://www.omarhgallego.com/research/papers/visa-restrictions-venezuela.html
+- Visa restrictions imposed on Venezuelans in South America increased irregular entry and irregular status (difference-in-differences, UNHCR survey of 85,000 migrants): https://www.omarhgallego.com/research/papers/visa-restrictions-venezuela.html
 - Austria, Germany, Ireland and the UK converged on measures limiting migrant labour market competition (labour market tests, salary thresholds, waiting periods), 1990–2020: https://www.omarhgallego.com/research/papers/return-of-the-state.html
 - Less partisan UK news coverage during the pandemic coincided with higher satisfaction with democracy and narrower partisan gaps (n = 201,144; 1.5m newspaper tweets): https://www.omarhgallego.com/research/papers/news-cycles-democracy.html
 
@@ -16,8 +16,9 @@
 
 ## Pages
 
-- [Research](https://www.omarhgallego.com/research/): full publication list
-- [Writing & media](https://www.omarhgallego.com/writing.html): op-eds and interviews
-- [Policy reports](https://www.omarhgallego.com/reports.html)
+- [Research](https://www.omarhgallego.com/research/): full publication list; every published article has a page with abstract and full-text PDF (all CC BY)
+- [APLA dataset](https://www.omarhgallego.com/research/dataset-apla.html)
+- [Writing & media](https://www.omarhgallego.com/writing.html): op-eds (The Big Issue, The Conversation, El Comercio, LSE blogs), TV and radio (GB News, RTVE, Times Radio, Caracol TV), podcasts and talks
+- [Policy reports](https://www.omarhgallego.com/reports.html): full PDFs of reports for the Migrant Democracy Project/LSE, the3million and UNODC
 - [CV (PDF)](https://www.omarhgallego.com/files/Hammoud-Gallego_CV.pdf)
-- [Español](https://www.omarhgallego.com/es/)
+- Other languages: [Español](https://www.omarhgallego.com/es/), [Italiano](https://www.omarhgallego.com/it/), [Deutsch](https://www.omarhgallego.com/de/)
