@@ -1,7 +1,7 @@
 ---
 title: "Omar Hammoud-Gallego"
 pagetitle: "Omar Hammoud-Gallego | Politiche migratorie e d'asilo, rappresentanza democratica"
-description: "Assistant Professor di Public Policy all'Università di Durham. Ricerca sulle politiche migratorie e d'asilo in America Latina e in Europa, sulla migrazione venezuelana e sulla rappresentanza democratica."
+description: "Assistant Professor di Public Policy all'Università di Durham. Ricerca sulle politiche migratorie e d'asilo (Regno Unito, Europa, America Latina) e sulla rappresentanza democratica."
 lang: it
 image: ../files/headshot.jpg
 include-in-header: ../_includes/hreflang.html
@@ -11,7 +11,9 @@ Sono un *political and social data scientist* e Assistant Professor di Public Po
 
 Le mie ricerche sulla migrazione si concentrano sull'America Latina, in particolare sulla migrazione forzata dal Venezuela, e sempre più sull'Europa e sul Regno Unito. Ho creato la banca dati APLA (*Asylum Policies in Latin America*), che codifica le leggi sull'asilo di 19 paesi latinoamericani tra il 1990 e il 2020, e ho mostrato che la regione ha liberalizzato la propria legislazione in materia di asilo mentre i paesi OCSE la rendevano più restrittiva. Ho inoltre studiato come l'introduzione dell'obbligo di visto per i cittadini venezuelani in Sud America abbia aumentato gli ingressi e i soggiorni irregolari.
 
-In Europa ho analizzato, insieme a Patrick McGovern ed Eiko Thielemann, come Austria, Germania, Irlanda e Regno Unito abbiano introdotto misure che limitano la concorrenza dei lavoratori migranti extra-UE sul mercato del lavoro. Con Matilde Rosina conduco un progetto sulla migrazione in Italia, finanziato dalla British Academy e dal Leverhulme Trust.
+In Europa ho analizzato, insieme a Patrick McGovern ed Eiko Thielemann, come Austria, Germania, Irlanda e Regno Unito abbiano introdotto misure che limitano la concorrenza dei lavoratori migranti extra-UE sul mercato del lavoro. Con Matilde Rosina conduco un progetto sulla migrazione in Italia, finanziato dalla British Academy.
+
+Le mie ricerche sulla democrazia si concentrano sulla soddisfazione per la democrazia, sull'ambizione politica e su quanto le istituzioni democratiche rappresentino i cittadini.
 
 Sono Visiting Fellow presso il Department of Government della London School of Economics e Affiliated Fellow della Cattedra IDRC su Migrazione e Sfollamento dell'Universidad del Pacífico (Perù). Prima di arrivare a Durham sono stato Fellow in Political Science and Public Policy alla LSE, dove ho conseguito il dottorato. Ho lavorato con l'UNHCR in Colombia e con l'IFAD in Italia.
 

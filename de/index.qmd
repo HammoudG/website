@@ -1,7 +1,7 @@
 ---
 title: "Omar Hammoud-Gallego"
 pagetitle: "Omar Hammoud-Gallego | Migrations- und Asylpolitik, demokratische Repräsentation"
-description: "Assistant Professor für Public Policy an der Durham University. Forschung zu Migrations- und Asylpolitik in Lateinamerika und Europa, zur venezolanischen Migration und zur demokratischen Repräsentation."
+description: "Assistant Professor für Public Policy an der Durham University. Forschung zu Migrations- und Asylpolitik (Vereinigtes Königreich, Europa, Lateinamerika) und zur demokratischen Repräsentation."
 lang: de
 image: ../files/headshot.jpg
 include-in-header: ../_includes/hreflang.html
@@ -12,6 +12,8 @@ Ich bin *Political and Social Data Scientist* und Assistant Professor für Publi
 In einer vergleichenden Studie zu Deutschland, Österreich, Irland und dem Vereinigten Königreich haben wir gezeigt, dass alle vier Länder zwischen 1990 und 2020 ähnliche Maßnahmen eingeführt haben, die den Wettbewerb durch Arbeitskräfte aus Drittstaaten auf dem Arbeitsmarkt begrenzen: Vorrangprüfungen, Mindestgehalts- oder Qualifikationsanforderungen, die Bindung an den Arbeitgeber und Wartezeiten für Asylsuchende (mit Patrick McGovern und Eiko Thielemann).
 
 Ein weiterer Schwerpunkt ist Lateinamerika, insbesondere die Fluchtbewegung aus Venezuela. Ich habe die APLA-Datenbank (*Asylum Policies in Latin America*) aufgebaut, die das Asylrecht von 19 lateinamerikanischen Ländern zwischen 1990 und 2020 erfasst, und gezeigt, dass die Region ihr Asylrecht liberalisiert hat, während die OECD-Länder es verschärften. Außerdem habe ich untersucht, wie die Einführung der Visumpflicht für Venezolanerinnen und Venezolaner in Südamerika irreguläre Einreisen und irregulären Aufenthalt erhöht hat.
+
+Meine Forschung zur Demokratie befasst sich mit der Zufriedenheit mit der Demokratie, mit politischen Ambitionen und damit, wie gut demokratische Institutionen die Bürgerinnen und Bürger repräsentieren.
 
 Ich bin Visiting Fellow am Department of Government der London School of Economics und Affiliated Fellow des IDRC-Lehrstuhls für Migration und Vertreibung an der Universidad del Pacífico (Peru). 2024 war ich Gastwissenschaftler am Mannheimer Zentrum für Europäische Sozialforschung (MZES). Ich habe Philosophie und Volkswirtschaftslehre an der Universität Heidelberg studiert und an der LSE promoviert.
 

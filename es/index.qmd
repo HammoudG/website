@@ -1,7 +1,7 @@
 ---
 title: "Omar Hammoud-Gallego"
 pagetitle: "Omar Hammoud-Gallego | Política migratoria y de refugio en América Latina"
-description: "Profesor de Políticas Públicas en la Universidad de Durham. Investiga la política migratoria y de refugio en América Latina, la migración venezolana y la representación democrática."
+description: "Profesor de Políticas Públicas en la Universidad de Durham. Investiga la política migratoria y de asilo (Reino Unido, Europa, América Latina) y la representación democrática."
 lang: es
 image: ../files/headshot.jpg
 include-in-header: ../_includes/hreflang.html
@@ -9,7 +9,9 @@ include-in-header: ../_includes/hreflang.html
 
 Soy científico de datos políticos y sociales, y profesor (*Assistant Professor*) de Políticas Públicas en la Escuela de Gobierno y Asuntos Internacionales de la Universidad de Durham (Reino Unido). Investigo cómo los gobiernos diseñan sus políticas migratorias y de refugio, qué efectos tienen sobre las personas migrantes y en qué medida las instituciones democráticas representan a la ciudadanía.
 
-Gran parte de mi trabajo se centra en América Latina y en el desplazamiento venezolano. He creado la base de datos APLA (*Asylum Policies in Latin America*), que codifica las leyes de refugio de 19 países latinoamericanos entre 1990 y 2020, y he mostrado que la región liberalizó sus leyes de refugio mientras los países de la OCDE las restringían. También he estudiado cómo la introducción de visas para personas venezolanas en Sudamérica desvió a muchas de ellas hacia rutas de entrada irregulares.
+Gran parte de mi trabajo se centra en América Latina y en el desplazamiento venezolano. He creado la base de datos APLA (*Asylum Policies in Latin America*), que codifica las leyes de refugio de 19 países latinoamericanos entre 1990 y 2020, y he mostrado que la región liberalizó sus leyes de refugio mientras los países de la OCDE las restringían. Mi investigación muestra, sin embargo, que estos compromisos con el refugio fueron en gran medida simbólicos: los gobiernos, sobre todo de izquierda, adoptaron leyes progresistas como parte de un discurso de derechos humanos, pero sin intención real de aplicarlas plenamente. También he estudiado cómo la introducción de visas para personas venezolanas en Sudamérica desvió a muchas de ellas hacia rutas de entrada irregulares.
+
+Mi trabajo sobre la democracia se centra en la satisfacción con la democracia, la ambición política y en qué medida las instituciones democráticas representan a la ciudadanía.
 
 Soy investigador afiliado de la Cátedra IDRC sobre Migración y Desplazamiento de la [Universidad del Pacífico](https://migraciones.up.edu.pe/investigador/omar-hammoud-gallego/) (Perú) e investigador visitante en el Departamento de Gobierno de la London School of Economics. He trabajado con ACNUR en Colombia y con otras agencias de Naciones Unidas.
 

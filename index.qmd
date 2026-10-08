@@ -1,7 +1,7 @@
 ---
 title: "Omar Hammoud-Gallego"
 pagetitle: "Omar Hammoud-Gallego | Migration and asylum policy, democratic representation"
-description: "Assistant Professor in Public Policy at Durham University. Research on Latin American migration and asylum policy, Venezuelan displacement, UK immigration policy and democratic representation."
+description: "Assistant Professor in Public Policy at Durham University. Research on migration and asylum policy (UK, Europe, Latin America) and on democratic representation."
 page-layout: full
 title-block-banner: false
 image: files/headshot.jpg
@@ -29,7 +29,7 @@ about:
 I am a political and social data scientist and Assistant Professor in Public Policy at the [School of Government and International Affairs](https://www.durham.ac.uk/departments/academic/school-government-international-affairs/), Durham University. I study how governments design migration and asylum policy, what those policies do to the people they target, and how well democratic institutions represent the people they serve.
 :::
 
-My work on migration focuses on Latin America, especially Venezuelan displacement, and increasingly on Europe and the UK. I have documented that Latin America liberalised its asylum laws between 1990 and 2020 while OECD countries restricted theirs ([*IMR*, 2022](research/papers/liberal-region-asylum.qmd)). I have also shown that leftist governments adopted these laws largely as symbolic commitments ([*APSR*, 2023](research/papers/symbolic-refugee-protection.qmd)). My work on Venezuelan displacement shows that visa restrictions pushed many migrants onto irregular routes rather than stopping them ([*World Development*, 2024](research/papers/visa-restrictions-venezuela.qmd)). My work on democracy covers satisfaction with democracy, the representativeness of local councillors and political ambition among women.
+My work on migration focuses on Latin America, especially Venezuelan displacement, and increasingly on Europe and the UK. I have documented that Latin America liberalised its asylum laws between 1990 and 2020 while OECD countries restricted theirs ([*IMR*, 2022](research/papers/liberal-region-asylum.qmd)). I have also shown that leftist governments adopted these laws largely as symbolic commitments ([*APSR*, 2023](research/papers/symbolic-refugee-protection.qmd)). My work on Venezuelan displacement shows that visa restrictions pushed many migrants onto irregular routes rather than stopping them ([*World Development*, 2024](research/papers/visa-restrictions-venezuela.qmd)). My work on democracy focuses on satisfaction with democracy, political ambition, and on how well democratic institutions represent citizens.
 
 I use quasi-experimental designs (difference-in-differences, regression discontinuity), survey and field experiments, original policy databases and computational text analysis.
 
