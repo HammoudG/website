@@ -35,7 +35,7 @@ To add a publication by hand: add an entry to `_data/publications.yml`, run `pyt
 ## One-time switch from Squarespace (do this once the repository is live)
 
 1. **GitHub Pages.** In the repository, open *Settings → Pages* and set *Source* to **GitHub Actions**. Under *Custom domain*, enter `www.omarhgallego.com` and tick *Enforce HTTPS* once it is offered.
-2. **DNS.** Wherever the domain is registered (probably Squarespace Domains), replace the Squarespace records with:
+2. **DNS.** The domain is registered and its DNS managed at **Namecheap** (Advanced DNS). Delete the Squarespace A records and the `www` CNAME to `ext-cust.squarespace.com`, and replace them with the records below. **Do not touch the MX records**: they run Namecheap email forwarding.
    - `CNAME` record: `www` → `hammoudg.github.io`
    - `A` records for the bare domain `@`: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
    DNS changes can take up to 24 hours.
