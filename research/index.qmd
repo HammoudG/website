@@ -24,7 +24,7 @@ description: "Peer-reviewed articles, working papers and book chapters by Omar H
 ::: {.pub}
 [Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws](papers/symbolic-refugee-protection.qmd){.pub-title}<br>
 [With L. F. Freier. *American Political Science Review*, 117(2), 454-473 (2023).]{.pub-meta}<br>
-[[DOI](https://doi.org/10.1017/S000305542200082X) [PDF](../files/papers/Hammoud-Gallego_Freier_2023_APSR_Symbolic_Refugee_Protection.pdf) [Data](https://github.com/HammoudG/APLA_Dataset)]{.pub-links}
+[[DOI](https://doi.org/10.1017/S000305542200082X) [PDF](../files/papers/Hammoud-Gallego_Freier_2023_APSR_Symbolic_Refugee_Protection.pdf) [Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UUDOS0)]{.pub-links}
 <br>[Best Paper Award (Honourable Mention), APSA Migration and Citizenship Section, 2024]{.award}
 :::
 

@@ -61,7 +61,7 @@ include-in-header:
 ::: {.paper-meta}
 *American Political Science Review*, 117(2), 454-473 (2023) · [Open access, CC BY 4.0]{.badge-oa}
 
-[Publisher version (DOI)](https://doi.org/10.1017/S000305542200082X) · [Download PDF](../../files/papers/Hammoud-Gallego_Freier_2023_APSR_Symbolic_Refugee_Protection.pdf) · [Data: APLA database](https://github.com/HammoudG/APLA_Dataset)
+[Publisher version (DOI)](https://doi.org/10.1017/S000305542200082X) · [Download PDF](../../files/papers/Hammoud-Gallego_Freier_2023_APSR_Symbolic_Refugee_Protection.pdf) · [Replication data (Harvard Dataverse)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UUDOS0)
 :::
 
 **Best Paper Award (Honourable Mention), APSA Migration and Citizenship Section, 2024**

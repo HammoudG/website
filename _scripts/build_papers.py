@@ -105,7 +105,7 @@ for p in data["articles"]:
     if p.get("pdf"):
         links.append(f"[Download PDF]({rel(p['pdf'], 2)})")
     if p.get("data"):
-        links.append(f"[Data: APLA database]({p['data']})")
+        links.append(f"[{p.get('data_label', 'Data: APLA database')}]({p['data']})")
     meta = f"{venue(p)} ({p['year']})"
     if p.get("licence"):
         meta += f" · [Open access, {p['licence']}]{{.badge-oa}}"

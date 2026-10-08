@@ -5,7 +5,8 @@
 
 articles:
   - slug: symbolic-refugee-protection
-    data: "https://github.com/HammoudG/APLA_Dataset"
+    data: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UUDOS0"
+    data_label: "Replication data (Harvard Dataverse)"
     description: "Why did Latin America expand refugee protection after 2000? Leftist executives adopted refugee laws largely as symbolic human-rights commitments. Evidence from the APLA database, Argentina and Mexico."
     title: "Symbolic Refugee Protection: Explaining Latin America's Liberal Refugee Laws"
     authors: ["Omar Hammoud-Gallego", "Luisa Feline Freier"]
