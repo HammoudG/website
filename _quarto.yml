@@ -56,6 +56,8 @@ format:
     theme:
       light: [cosmo, styles.scss]
     toc: false
-    include-in-header: _includes/person-jsonld.html
+    include-in-header:
+      - _includes/google-verification.html
+      - _includes/person-jsonld.html
     lang: en-GB
     canonical-url: true
