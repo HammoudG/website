@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: _site
+  post-render: _scripts/postrender.py
   resources:
     - CNAME
     - robots.txt
